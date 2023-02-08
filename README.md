@@ -5,9 +5,15 @@ Project to review trends and analysis of NYC Urban Agriculture.
 
 ## MC CAPSTONE ON TOOLS TO USE
 
+- Module 14: Mapping Tools (Mapbox API & BootStrap)
+  - https://github.com/macicchino/Citi_Bike_Tableau
+
 - Module 15: Use Tableau to vizulaize [source 1]
   - https://github.com/macicchino/Citi_Bike_Tableau
 
+- Module 16 & 17: R and Big Data
+  - Find very grainular data set to perform Multiple Linear Regression on [ECONOMICS CRITIQUE]
+  - 
 
 ## SOURCES
 
