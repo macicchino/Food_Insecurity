@@ -15,9 +15,19 @@ Project to review trends and analysis of NYC Urban Agriculture.
   - Find very grainular data set to perform Multiple Linear Regression on [ECONOMICS CRITIQUE]
   - 
 
-## SOURCES
+## DATA SOURCES
 
 1. Open Source Link for NYC Urban Farming Data. 
   - https://data.cityofnewyork.us/Environment/City-owned-sites-that-are-available-and-potentiall/qchy-end3
   
 2. 
+
+
+### Academic Review
+
+1. 2018 THESES MASTER'S Distribution, Benefits, Challenges, and Recommendations of Urban Agriculture in New York City 
+  - https://academiccommons.columbia.edu/doi/10.7916/D8VX2036
+2. Growing above the city: Application of open-source urban agriculture system to different boroughs in NYC
+  - https://surface.syr.edu/architecture_theses/497/
+
+
