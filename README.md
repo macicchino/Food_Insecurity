@@ -41,4 +41,7 @@ Project to review trends and analysis of NYC Urban Agriculture.
 2. Growing above the city: Application of open-source urban agriculture system to different boroughs in NYC
   - https://surface.syr.edu/architecture_theses/497/
 
+3. Urban Agriculture Growth COnstraints, "Urban agriculture: a global analysis of the space constraint to meet urban vegetable demand
+F Martellozzo3,1, J-S Landry1, D Plouffe1, V Seufert1, P Rowhani2 and N Ramankutty1"
+  - https://iopscience.iop.org/article/10.1088/1748-9326/9/6/064025
 
