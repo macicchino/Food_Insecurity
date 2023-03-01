@@ -30,6 +30,9 @@ Project to review trends and analysis of NYC Urban Agriculture.
 2. Open Source Link for NYC Urban Farming Data. 
   - https://data.cityofnewyork.us/Environment/City-owned-sites-that-are-available-and-potentiall/qchy-end3
   
+  
+3. Philly Open Data Set for Urban Ag, Why does Philly have such good data?
+ - https://www.opendataphilly.org/dataset/urban-agriculture-projects
 
 ### Academic Review
 
