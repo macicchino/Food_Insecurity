@@ -2,6 +2,19 @@
 Project to review trends and analysis of NYC Urban Agriculture.
 
 
+## Key TODO's
+
+
+## Schedules
+
+Possible Additional Meetings on Wednesday
+
+Michael C - 
+Emery S   -
+Woyram A - 
+Vasily K - 
+
+
 
 ## MC CAPSTONE ON TOOLS TO USE
 
