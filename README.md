@@ -33,6 +33,11 @@ Project to review trends and analysis of NYC Urban Agriculture.
   
 3. Philly Open Data Set for Urban Ag, Why does Philly have such good data?
  - https://www.opendataphilly.org/dataset/urban-agriculture-projects
+ 
+ 
+4. HIGH SKILL LEVEL - Using r and Machine Leaning for Agricultural Data. 
+- Academic paper
+- https://hal.science/hal-03502870/document
 
 ### Academic Review
 
