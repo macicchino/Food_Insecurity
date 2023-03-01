@@ -1,7 +1,6 @@
 # NYC_Urban_Agriculture
 Project to review trends and analysis of Urban Agriculture.
 
-# Testing my branch -VK
 
 ## Key TODO's
 
@@ -46,6 +45,18 @@ Possible Additional Meetings on Wednesday (Not for Week 1 though )
 
 
 ## Vasily K: 
+
+notes:
+https://unionsquaregrassman.com/grassman/
+
+https://data.ny.gov/
+https://data.ny.gov/browse?q=Agricultural&sortBy=relevance
+https://data.ny.gov/Economic-Development/Winter-Farmers-Markets-in-New-York-State-Map/88k7-ujm4
+
+Contact Information	info@agriculture.ny.gov
+
+https://farmdirectory.agriculture.ny.gov/
+FarmDirectory@agriculture.ny.gov
 
 
 Brenton - 
