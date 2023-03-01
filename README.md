@@ -8,6 +8,10 @@ Project to review trends and analysis of NYC Urban Agriculture.
 
 2. Come up with 2-3 Questions or Datasets to Focus on. Next meeting decide direction. 
 
+3. What is our Goal ? 
+  -  Urban Agricultural Growth - Micro Story 
+  -  Global Agriculture - Macro Story 
+
 ## Schedules
 
 Possible Additional Meetings on Wednesday (Not for Week 1 though ) 
