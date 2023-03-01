@@ -4,15 +4,31 @@ Project to review trends and analysis of NYC Urban Agriculture.
 
 ## Key TODO's
 
+1. Review Class Project GitHub Push 
+
+2. Come up with 2-3 Questions or Datasets to Focus on. Next meeting decide direction. 
 
 ## Schedules
 
-Possible Additional Meetings on Wednesday
+Possible Additional Meetings on Wednesday (Not for Week 1 though ) 
+
+
+# Homework - Todos [ Questions and Possible Data Sources ] 
 
 Michael C - 
+
+
 Emery S   -
+
+
 Woyram A - 
+
+
 Vasily K - 
+
+
+Brenton - 
+
 
 
 
