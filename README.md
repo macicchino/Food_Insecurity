@@ -50,3 +50,6 @@ Project to review trends and analysis of NYC Urban Agriculture.
 F Martellozzo3,1, J-S Landry1, D Plouffe1, V Seufert1, P Rowhani2 and N Ramankutty1"
   - https://iopscience.iop.org/article/10.1088/1748-9326/9/6/064025
 
+4. Meta Analysis, "How Much Food Can We Grow in Urban Areas? Food Production and Crop Yields of Urban Agriculture: A Meta-Analysis
+Florian Thomas Payen, Daniel L. Evans, Natalia Falagán, Charlotte A. Hardman, Sofia Kourmpetli, Lingxuan Liu, Rachel Marshall, Bethan R. Mead, Jessica A. C. Davies"
+  - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002748
