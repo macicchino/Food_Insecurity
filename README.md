@@ -39,6 +39,17 @@ Possible Additional Meetings on Wednesday (Not for Week 1 though )
 
 
 ## Emery S:
+What is the efficacy of urban agriculture relative to non-urban agricultural production?
+  - Power cunsumption
+  - cost efficiency
+  - neccessity of urban agriculture
+  - Growth of plants in a controlled environment
+
+Can we predict crop yield for the coming year based on past data?
+  - Trends in soil changes
+  - Weather trends influence
+  - supply and demand based on yield
+  - perhaps we select a specific loaction for crop yields or we select a specific crop and cover its growth over many locations.
 
 
 ## Woyram A:
