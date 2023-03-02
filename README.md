@@ -1,8 +1,18 @@
 # NYC_Urban_Agriculture
-Project to review trends and analysis of Urban Agriculture.
+
+### Admin: 
+    Extra Meeting on Wednesday, March 8th. 
+
+### Objective:
+    Project to review trends and analysis of Urban Agriculture. 
+
+### Hypothesis:
+    ***TBD***   [to decide on 3/2/23 Team Meeting]
 
 
 ## Key TODO's
+
+
 
 1. Review Class Project GitHub Push 
 
@@ -10,27 +20,19 @@ Project to review trends and analysis of Urban Agriculture.
 
 3. What is our Goal ? 
   -  Urban Agricultural Growth - Micro Story 
-  -  Global Agriculture - Macro Story 
+  -  Global Agriculture Growth - Macro Story 
 
 4. Challenges : 
-  A. What constitutes an urban farm? 
+  - What constitutes an urban farm? 
       - Indoor vs Outdoor
       - Urban vs Rural Definition 
-        - 
-      - TYPES of Farming: Monocrop , Largescale, Verticle farming, Hydro
+      - Types of Farming: Monocrop , Largescale, Verticle farming, Hydro
       
-  B. Brenton research : USDA defines Urban Agriculture [ insert ] 
-  
-  C. Need a Dataset, What are the best candidates? 
+5. Need a Dataset, What are the best candidates? 
   
       [1] USDA Data set 
       [2] 
-      [3] 
-
-
-## Schedules
-
-Possible Additional Meetings on Wednesday (Not for Week 1 though ) 
+  
 
 
 # Homework - Todos [ Questions and Possible Data Sources ] 
