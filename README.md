@@ -7,8 +7,9 @@
     Project to review trends and analysis of Urban Agriculture. 
 
 ### Hypothesis:
-   **TBD**   
-    [to decide on 3/2/23 Team Meeting]
+
+   **TBD**
+   `To decide on 3/2/23 Team Meeting 
 
 
 ## Key TODO's
