@@ -38,11 +38,13 @@
 
 ## Michael C:
 
-    Hypothesis_1:   Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing                         demand for locally grown produce. 
+    Specific Topic : Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing                         demand for locally grown produce. 
     
-                    
+    Hypothesis_1   :    
     
-    Hypothesis_2:
+    Hypothesis_2   :
+    
+    Data Set       : 
 
 
 ## Emery S:
@@ -61,6 +63,7 @@
 
 
 ## Woyram A:
+
 
 
 ## Vasily K: 
@@ -97,12 +100,14 @@
 
 ## Controlled Enviroment Agriculture (CEA) : Michael Cicchino Hypothesis_1 Research
 
-General Trends of CEA Industry 
--   https://www.maximizemarketresearch.com/market-report/controlled-environment-agriculture-market/147449/#:~:text=The%20Controlled%20Environment%20Agriculture%20Market,9.8%25%20over%20the%20forecast%20period.
+    1. General Trends of CEA Industry 
+    -   https://www.maximizemarketresearch.com/market-report/controlled-environment-agriculture-market/147449/#:~:text=The%20Controlled%20Environment%20Agriculture%20Market,9.8%25%20over%20the%20forecast%20period.
 
-Problems with Data of CEA Industry 
--   https://urbanagnews.com/blog/news/the-case-for-standardizing-reporting-and-benchmarking-yield-in-cea-facilities/
+    2. Problems with Data of CEA Industry 
+    -   https://urbanagnews.com/blog/news/the-case-for-standardizing-reporting-and-benchmarking-yield-in-cea-facilities/
 
+    3. Examples of using Machine Learning in the CEA industry, Academic Article
+    -   https://encyclopedia.pub/entry/32766
 
 ## DATA SOURCES
 
