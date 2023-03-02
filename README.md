@@ -1,4 +1,4 @@
-# NYC_Urban_Agriculture
+# Overview: NYC_Urban_Agriculture
 
 ### Admin: 
     Extra Meeting on Wednesday, March 8th. 
@@ -9,35 +9,31 @@
 ### Hypothesis:
 
    **TBD**
-   `To decide on 3/2/23 Team Meeting 
+
+    1. 3/2/23 Team Meeting to Identify Hypothesis
+    2. 3/2/23 Team Meeting to Identify Data Set to Test Hypothesis
 
 
-## Key TODO's
 
-
+## Meeting_1 Notes
 
 1. Review Class Project GitHub Push 
-
 2. Come up with 2-3 Questions or Datasets to Focus on. Next meeting decide direction. 
-
 3. What is our Goal ? 
   -  Urban Agricultural Growth - Micro Story 
   -  Global Agriculture Growth - Macro Story 
-
 4. Challenges : 
   - What constitutes an urban farm? 
       - Indoor vs Outdoor
       - Urban vs Rural Definition 
       - Types of Farming: Monocrop , Largescale, Verticle farming, Hydro
-      
 5. Need a Dataset, What are the best candidates? 
-  
       [1] USDA Data set 
       [2] 
   
 
 
-# Homework - Todos [ Questions and Possible Data Sources ] 
+# Homework
 
 ## Michael C:
 
@@ -62,48 +58,61 @@ Can we predict crop yield for the coming year based on past data?
 ## Vasily K: 
 
 
-Brenton - 
+
+
+## Brenton: 
     - What is Urban vs Rural Agriculture ? How is it defined / defined in datasets? 
     - https://www.farmers.gov/data
 
 
-## MC CAPSTONE ON TOOLS TO USE
 
+
+
+
+
+
+
+# Agricultural Project:   Resources, Tools and Academic Review 
+
+
+## Class Examples 
 - Module 14: Mapping Tools (Mapbox API & BootStrap)
   - https://github.com/macicchino/Citi_Bike_Tableau
 
-- Module 15: Use Tableau to vizulaize [source 1]
+- Module 15: Use Tableau to vizulaize
   - https://github.com/macicchino/Citi_Bike_Tableau
 
 - Module 16 & 17: R and Big Data
-  - Find very grainular data set to perform Multiple Linear Regression on [ECONOMICS CRITIQUE]
-  - 
+  - Find very grainular data set to perform Multiple Linear Regression 
+
+- Module 18 & 19: Machine learning / Neural Networks
+
+
 
 ## DATA SOURCES
 
 1. Key Data Set for Agricultural Data
-  - https://sedac.ciesin.columbia.edu/theme/agriculture/data/sets/browse
-
-  - Who doesn't like bread? 
+    - https://sedac.ciesin.columbia.edu/theme/agriculture/data/sets/browse
+    
+    - Who doesn't like bread? 
     - https://sedac.ciesin.columbia.edu/data/set/food-twentieth-century-crop-statistics-1900-2017
 
 1.1 https://opendataimpactmap.org/agriculture
 
 
-
 2. Open Source Link for NYC Urban Farming Data. 
-  - https://data.cityofnewyork.us/Environment/City-owned-sites-that-are-available-and-potentiall/qchy-end3
+    - https://data.cityofnewyork.us/Environment/City-owned-sites-that-are-available-and-potentiall/qchy-end3
   
   
 3. Philly Open Data Set for Urban Ag, Why does Philly have such good data?
- - https://www.opendataphilly.org/dataset/urban-agriculture-projects
+    - https://www.opendataphilly.org/dataset/urban-agriculture-projects
  
  
 4. HIGH SKILL LEVEL - Using r and Machine Leaning for Agricultural Data. 
-- Academic paper
-- https://hal.science/hal-03502870/document
+    - Academic paper
+    - https://hal.science/hal-03502870/document
 
-### Academic Review
+## Academic Review
 
 1. 2018 THESES MASTER'S Distribution, Benefits, Challenges, and Recommendations of Urban Agriculture in New York City 
   - https://academiccommons.columbia.edu/doi/10.7916/D8VX2036
