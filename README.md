@@ -19,20 +19,23 @@
 ## Meeting_1 Notes
 
 1. Review Class Project GitHub Push 
-2. Come up with 2-3 Questions or Datasets to Focus on. Next meeting decide direction. 
-3. What is our Goal ? 
+
+3. Come up with 2-3 Questions or Datasets to Focus on. Next meeting decide direction. 
+
+5. What is our Goal ? 
   -  Urban Agricultural Growth - Micro Story 
   -  Global Agriculture Growth - Macro Story 
-4. Challenges : 
+
+6. Challenges : 
   - What constitutes an urban farm? 
-      - Indoor vs Outdoor
-      - Urban vs Rural Definition 
-      - Types of Farming: Monocrop , Largescale, Verticle farming, Hydro
-5. Need a Dataset, What are the best candidates? 
+  - Indoor vs Outdoor
+  - Urban vs Rural Definition 
+  - Types of Farming: Monocrop , Largescale, Verticle farming, Hydro
+
+7. Need a Dataset, What are the best candidates? 
       [1] USDA Data set 
       [2] 
-  
-
+ 
 
 # Homework_1 : Identify Hypothesis & Data Set 
 
@@ -74,11 +77,6 @@
 ## Brenton: 
     - What is Urban vs Rural Agriculture ? How is it defined / defined in datasets? 
     - https://www.farmers.gov/data
-
-
-
-
-
 
 
 
@@ -135,14 +133,14 @@
 ## Academic Review
 
 1. 2018 THESES MASTER'S Distribution, Benefits, Challenges, and Recommendations of Urban Agriculture in New York City 
-  - https://academiccommons.columbia.edu/doi/10.7916/D8VX2036
+    - https://academiccommons.columbia.edu/doi/10.7916/D8VX2036
 2. Growing above the city: Application of open-source urban agriculture system to different boroughs in NYC
-  - https://surface.syr.edu/architecture_theses/497/
+    - https://surface.syr.edu/architecture_theses/497/
 
 3. Urban Agriculture Growth COnstraints, "Urban agriculture: a global analysis of the space constraint to meet urban vegetable demand
 F Martellozzo3,1, J-S Landry1, D Plouffe1, V Seufert1, P Rowhani2 and N Ramankutty1"
-  - https://iopscience.iop.org/article/10.1088/1748-9326/9/6/064025
+    - https://iopscience.iop.org/article/10.1088/1748-9326/9/6/064025
 
 4. Meta Analysis, "How Much Food Can We Grow in Urban Areas? Food Production and Crop Yields of Urban Agriculture: A Meta-Analysis
 Florian Thomas Payen, Daniel L. Evans, Natalia Falagán, Charlotte A. Hardman, Sofia Kourmpetli, Lingxuan Liu, Rachel Marshall, Bethan R. Mead, Jessica A. C. Davies"
-  - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002748
+    - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002748
