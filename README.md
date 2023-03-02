@@ -43,7 +43,7 @@
 
     Specific Topic : Indoor Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing  demand for locally grown produce. How has CEA production changed over the past decade in Urban areas ? What are the costs/benefits of CEA compared to traditional agriculture. 
     
-    Hypothesis_1   :    
+    Hypothesis_1   : The growth of indoor agriculture, CEA, has grown over the past 10 years due to technological increases in efficiency. What is the Yield of CEA productions compared to traditional agriculture? 
     
     
     Hypothesis_2   :
@@ -109,6 +109,9 @@
 
     3. Examples of using Machine Learning in the CEA industry, Academic Article
     -   https://encyclopedia.pub/entry/32766
+    
+    4. DataSet for CEA Industry (Small) 
+    -  https://ceaod.github.io/
 
 ## DATA SOURCES
 
