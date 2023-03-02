@@ -1,13 +1,13 @@
 # NYC_Urban_Agriculture
 
 ### Admin: 
-   Extra Meeting on Wednesday, March 8th. 
+    Extra Meeting on Wednesday, March 8th. 
 
 ### Objective:
     Project to review trends and analysis of Urban Agriculture. 
 
 ### Hypothesis:
-   **TBD**   [to decide on 3/2/23 Team Meeting]
+    **TBD**   [to decide on 3/2/23 Team Meeting]
 
 
 ## Key TODO's
