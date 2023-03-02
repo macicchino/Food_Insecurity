@@ -2,6 +2,7 @@
 
 ### Admin: 
     Extra Meeting on Wednesday, March 8th. 
+    TIME TBD
 
 ### Objective:
     Project to review trends and analysis of Urban Agriculture. 
@@ -33,23 +34,30 @@
   
 
 
-# Homework
+# Homework_1 : Identify Hypothesis & Data Set 
 
 ## Michael C:
 
+    Hypothesis_1:   Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing                         demand for locally grown produce. 
+    
+                    
+    
+    Hypothesis_2:
+
 
 ## Emery S:
-What is the efficacy of urban agriculture relative to non-urban agricultural production?
-  - Power cunsumption
-  - cost efficiency
-  - neccessity of urban agriculture
-  - Growth of plants in a controlled environment
+    
+    What is the efficacy of urban agriculture relative to non-urban agricultural production?
+      - Power cunsumption
+      - cost efficiency
+      - neccessity of urban agriculture
+      - Growth of plants in a controlled environment
 
-Can we predict crop yield for the coming year based on past data?
-  - Trends in soil changes
-  - Weather trends influence
-  - supply and demand based on yield
-  - perhaps we select a specific loaction for crop yields or we select a specific crop and cover its growth over many locations.
+    Can we predict crop yield for the coming year based on past data?
+      - Trends in soil changes
+      - Weather trends influence
+      - supply and demand based on yield
+      - perhaps we select a specific loaction for crop yields or we select a specific crop and cover its growth over many locations.
 
 
 ## Woyram A:
@@ -87,6 +95,13 @@ Can we predict crop yield for the coming year based on past data?
 
 - Module 18 & 19: Machine learning / Neural Networks
 
+## Controlled Enviroment Agriculture (CEA) : Michael Cicchino Hypothesis_1 Research
+
+General Trends of CEA Industry 
+-   https://www.maximizemarketresearch.com/market-report/controlled-environment-agriculture-market/147449/#:~:text=The%20Controlled%20Environment%20Agriculture%20Market,9.8%25%20over%20the%20forecast%20period.
+
+Problems with Data of CEA Industry 
+-   https://urbanagnews.com/blog/news/the-case-for-standardizing-reporting-and-benchmarking-yield-in-cea-facilities/
 
 
 ## DATA SOURCES
