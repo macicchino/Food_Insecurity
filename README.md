@@ -41,13 +41,16 @@
 
 ## Michael C:
 
-    Specific Topic : Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing  demand for locally grown produce. 
+    Specific Topic : Indoor Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing  demand for locally grown produce. How has CEA production changed over the past decade in Urban areas ? What are the costs/benefits of CEA compared to traditional agriculture. 
     
     Hypothesis_1   :    
     
+    
     Hypothesis_2   :
     
+    
     Data Set       : 
+
 
 
 ## Emery S:
