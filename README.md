@@ -38,7 +38,7 @@
 
 ## Michael C:
 
-    Specific Topic : Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing                         demand for locally grown produce. 
+    Specific Topic : Urban Agriculture, also known as Controlled Environment Agriculture (CEA), is a rapidly growing industry driven by the increasing  demand for locally grown produce. 
     
     Hypothesis_1   :    
     
