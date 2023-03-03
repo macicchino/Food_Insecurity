@@ -3,7 +3,22 @@
 ### Admin: 
     Extra Meeting on Wednesday, March 8th. 
     TIME TBD
+### First Segment requirements
+#### Content
+    A detailed README.md file (20 points)
 
+    At least four commits per team member (20 points)
+
+    A database that stores at least two tables (or collections) for the project (20 points)
+
+#### Presentation
+    The selected topic and the reasoning for that selection (20 points)
+    
+    A description of the data (20 points)
+    
+    The questions that the team plans to answer with the project (20 points)
+    
+   
 ### Objective:
     Project to Food Insecurity using USDA Dataset. 
     We pick a variable and create a narrow question / hypothesis. 
