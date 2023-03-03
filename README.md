@@ -76,6 +76,18 @@
 
 ## Vasily K: 
 
+notes:
+https://unionsquaregrassman.com/grassman/
+
+https://data.ny.gov/
+https://data.ny.gov/browse?q=Agricultural&sortBy=relevance
+https://data.ny.gov/Economic-Development/Winter-Farmers-Markets-in-New-York-State-Map/88k7-ujm4
+
+Contact Information	info@agriculture.ny.gov
+
+https://farmdirectory.agriculture.ny.gov/
+FarmDirectory@agriculture.ny.gov
+
 
 
 
