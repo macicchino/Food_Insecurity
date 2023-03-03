@@ -5,14 +5,59 @@
     TIME TBD
 
 ### Objective:
-    Project to review trends and analysis of Urban Agriculture. 
+    Project to Food Insecurity using USDA Dataset. 
+    We pick a variable and create a narrow question / hypothesis. 
+    
 
 ### Hypothesis:
 
-   **TBD**
+   To predict impact of Food Insecurity 
+                                       _on Health Standards?
+                                       _on Fast-food?
+                                       _on Agro_Tourism
+                                       _on CSA Farms 
+                                       
 
-    1. 3/2/23 Team Meeting to Identify Hypothesis
-    2. 3/2/23 Team Meeting to Identify Data Set to Test Hypothesis
+
+# Homework_2 : Identify Hypothesis & Data Set 
+
+ Every has : Supplemental County, Supplemental State, and INSECURITY
+ 
+ TO DO     : 
+ 
+ 1. Refine the assigned datasets. 
+ 2. Change column names , to names listed in Variables
+ 
+
+## Michael C:
+    - Access
+    - Michael to find out column headers of Supplemental Data, see source. 
+
+## Emery S:
+    - Socio-Economic 
+    - Health 
+    
+## Woyram A:
+    - Taxes  
+    - Insecurity
+
+## Vasiliy: 
+    - Assistance
+    - Resturants
+
+## Brenton:
+    - Stores
+    - Local 
+
+### Data Source: 
+
+See USDA Data Set interative map
+        - MC to Download
+        - See on github here : 
+
+### Key Todo's
+
+1. 
 
 
 
