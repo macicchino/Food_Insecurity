@@ -1,4 +1,4 @@
-# Overview: NYC_Urban_Agriculture
+# Overview: Food Security
 
 ### Admin: 
     Extra Meeting on Wednesday, March 8th. 
@@ -8,7 +8,6 @@
     Project to Food Insecurity using USDA Dataset. 
     We pick a variable and create a narrow question / hypothesis. 
     
-
 ### Hypothesis:
 
    To predict impact of Food Insecurity 
@@ -18,7 +17,6 @@
                                        _on CSA Farms 
                                        
 
-
 # Homework_2 : Identify Hypothesis & Data Set 
 
  Every has : Supplemental County, Supplemental State, and INSECURITY
@@ -27,6 +25,7 @@
  
  1. Refine the assigned datasets. 
  2. Change column names , to names listed in Variables
+ 3. Come up at least 2 questions from cleaning the dataset. Make an informed hypothesis. 
  
 
 ## Michael C:
