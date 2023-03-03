@@ -51,6 +51,7 @@
     
     Data Set       : This is the best Paper and Data Sources regarding CEA for Machine Learning. 
                         - https://hal.science/hal-03502870/document
+                        - https://ceaod.github.io/
 
 
 
