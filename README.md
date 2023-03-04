@@ -57,28 +57,29 @@
 
 ## Vasiliy: 
     - Assistance
-    - Resturants
-        |	Short	|	Long	|	Proposed	|
-        |	---	|	---	|	---	|
-        |	FIPS	|	FIPS	|	FIPS	|
-        |	State	|	State	|	delete	|
-        |	County	|	County	|	delete	|
-        |	FFR11	|	Fast-food restaurants, 2011	|	fast_food_rest_2011	|
-        |	FFR16	|	Fast-food restaurants, 2016	|	fast_food_rest_2016	|
-        |	PCH_FFR_11_16	|	Fast-food restaurants (% change), 2011-16	|	ff_change_2011_2016	|
-        |	FFRPTH11	|	Fast-food restaurants/1,000 pop, 2011	|	ff_rest_per_1K_pop_2011	|
-        |	FFRPTH16	|	Fast-food restaurants/1,000 pop, 2016	|	ff_rest_per_1K_pop_2016	|
-        |	PCH_FFRPTH_11_16	|	Fast-food restaurants/1,000 pop (% change), 2011-16	|	ff_rest_per_1K_pop_change	|
-        |	FSR11	|	Full-service restaurants, 2011	|	rest_2011	|
-        |	FSR16	|	Full-service restaurants, 2016	|	rest_2016	|
-        |	PCH_FSR_11_16	|	Full-service restaurants (% change), 2011-16	|	rest_change_2011_2016	|
-        |	FSRPTH11	|	Full-service restaurants/1,000 pop, 2011	|	rest_per_1K_pop_2011	|
-        |	FSRPTH16	|	Full-service restaurants/1,000 pop, 2016	|	rest_per_1K_pop_2016	|
-        |	PCH_FSRPTH_11_16	|	Full-service restaurants/1,000 pop (% change), 2011-16	|	rest_per_1K_pop_change	|
-        |	PC_FFRSALES07	|	Expenditures per capita, fast food, 2007*	|	delete	|
-        |	PC_FFRSALES12	|	Expenditures per capita, fast food, 2012*	|	delete	|
-        |	PC_FSRSALES07	|	Expenditures per capita, restaurants, 2007*	|	delete	|
-        |	PC_FSRSALES12	|	Expenditures per capita, restaurants, 2012*	|	delete	|
+   ### - Resturants
+    
+| Short | Long | Proposed | 
+| --- | --- | --- | 
+| FIPS | FIPS | FIPS |         
+|	State	|	State	|	delete	|
+|	County	|	County	|	delete	|
+|	FFR11	|	Fast-food restaurants, 2011	|	fast_food_rest_2011	|
+|	FFR16	|	Fast-food restaurants, 2016	|	fast_food_rest_2016	|
+|	PCH_FFR_11_16	|	Fast-food restaurants (% change), 2011-16	|	ff_change_2011_2016	|
+|	FFRPTH11	|	Fast-food restaurants/1,000 pop, 2011	|	ff_rest_per_1K_pop_2011	|
+|	FFRPTH16	|	Fast-food restaurants/1,000 pop, 2016	|	ff_rest_per_1K_pop_2016	|
+|	PCH_FFRPTH_11_16	|	Fast-food restaurants/1,000 pop (% change), 2011-16	|	ff_rest_per_1K_pop_change	|
+|	FSR11	|	Full-service restaurants, 2011	|	rest_2011	|
+|	FSR16	|	Full-service restaurants, 2016	|	rest_2016	|
+|	PCH_FSR_11_16	|	Full-service restaurants (% change), 2011-16	|	rest_change_2011_2016	|
+|	FSRPTH11	|	Full-service restaurants/1,000 pop, 2011	|	rest_per_1K_pop_2011	|
+|	FSRPTH16	|	Full-service restaurants/1,000 pop, 2016	|	rest_per_1K_pop_2016	|
+|	PCH_FSRPTH_11_16	|	Full-service restaurants/1,000 pop (% change), 2011-16	|	rest_per_1K_pop_change	|
+|	PC_FFRSALES07	|	Expenditures per capita, fast food, 2007*	|	delete	|
+|	PC_FFRSALES12	|	Expenditures per capita, fast food, 2012*	|	delete	|
+|	PC_FSRSALES07	|	Expenditures per capita, restaurants, 2007*	|	delete	|
+|	PC_FSRSALES12	|	Expenditures per capita, restaurants, 2012*	|	delete	|
 
 
 
