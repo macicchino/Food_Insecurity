@@ -57,6 +57,7 @@
 
 ## Vasiliy: 
     - Assistance
+
    ### - Resturants
     
 | Short | Long | Proposed | 
@@ -82,10 +83,12 @@
 |	PC_FSRSALES12	|	Expenditures per capita, restaurants, 2012*	|	delete	|
 
 
-
 ## Brenton:
     - Stores
     - Local 
+
+### Data Source: 
+
 
 ### Data Source: 
 
