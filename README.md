@@ -1,4 +1,6 @@
-# Overview: Food Security
+# Final Project: Food Insecurity 
+# SQL Team 6
+
 
 ### Admin: 
     Extra Meeting on Wednesday, March 8th. 
