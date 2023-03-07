@@ -56,6 +56,13 @@
     - Insecurity
 
 ## Vasiliy: 
+    
+    ### Questions:
+        Food insecurity increase vs Fast Food Restaurants growth or full service restaurants decline
+        Food insecurity vs superstore locations vs Walmart?
+        What is concidered a "food desert"
+
+
     - Assistance
 
    ### - Resturants
