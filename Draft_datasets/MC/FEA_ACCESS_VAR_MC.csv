@@ -1,0 +1,63 @@
+﻿Category Name,Category Code,Subcategory Name,Variable Name,Variable Code,Geography,Units
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2010",LACCESS_POP10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2015",LACCESS_POP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store (% change), 2010 -15",PCH_LACCESS_POP_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store (%), 2010",PCT_LACCESS_POP10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store (%), 2015",PCT_LACCESS_POP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2010",LACCESS_LOWI10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2015",LACCESS_LOWI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store (% change), 2010 - 15",PCH_LACCESS_LOWI_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store (%), 2010",PCT_LACCESS_LOWI10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store (%), 2015",PCT_LACCESS_LOWI15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2010",LACCESS_HHNV10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2015",LACCESS_HHNV15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store (% change), 2010 - 15",PCH_LACCESS_HHNV_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store (%), 2010",PCT_LACCESS_HHNV10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store (%), 2015",PCT_LACCESS_HHNV15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"SNAP households, low access to store, 2015",LACCESS_SNAP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"SNAP households, low access to store (%), 2015",PCT_LACCESS_SNAP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store, 2010",LACCESS_CHILD10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store, 2015",LACCESS_CHILD15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store (% change), 2010 - 15",PCH_LACCESS_CHILD_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store (%), 2010",PCT_LACCESS_CHILD10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store (%), 2015",PCT_LACCESS_CHILD15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store, 2010",LACCESS_SENIORS10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store, 2015",LACCESS_SENIORS15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store (% change), 2010 -15",PCH_LACCESS_SENIORS_10_15,CNTY10,% change
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store (%), 2010",PCT_LACCESS_SENIORS10,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store (%), 2015",PCT_LACCESS_SENIORS15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"White, low access to store, 2015",LACCESS_WHITE15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"White, low access to store (%), 2015",PCT_LACCESS_WHITE15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Black, low access to store, 2015",LACCESS_BLACK15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Black, low access to store (%), 2015",PCT_LACCESS_BLACK15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hispanic ethnicity, low access to store, 2015",LACCESS_HISP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hispanic ethnicity, low access to store (%), 2015",PCT_LACCESS_HISP15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Asian, low access to store, 2015",LACCESS_NHASIAN15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Asian, low access to store (%), 2015",PCT_LACCESS_NHASIAN15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"American Indian or Alaska Native, low access to store, 2015",LACCESS_NHNA15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"American Indian or Alaska Native, low access to store (%), 2015",PCT_LACCESS_NHNA15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hawaiian or Pacific Islander, low access to store, 2015",LACCESS_NHPI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hawaiian or Pacific Islander, low access to store (%), 2015",PCT_LACCESS_NHPI15,CNTY10,Percent
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Multiracial, low access to store, 2015",LACCESS_MULTIR15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Multiracial, low access to store (%), 2015",PCT_LACCESS_MULTIR15,CNTY10,Percent
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
