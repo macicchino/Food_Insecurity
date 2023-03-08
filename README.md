@@ -62,6 +62,12 @@
 ## Woyram A:
     - Taxes  
     - Insecurity
+    ## Questions
+    
+    Farmers market access vrs food insecurity?
+1. Do areas with more access impact on or correlate with food security or insecurity? 
+-How does the availability of food markets impact on food insecurity 
+3. Is there an increase or decrease in food security/insecurity? Can we then determine by State or County a trend or relationship?
 
 ## Vasiliy: 
     
