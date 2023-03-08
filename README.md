@@ -13,7 +13,7 @@ The original 2020 Food Environment Atlas dataset can be found at: https://www.er
  > Direct download link: https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7
 
 ## Objective
-From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it related to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts the changes in food insecurity for years not adressed in the origininal data.
+From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it related to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the origininal data.
 
 ### Questions
 How does the availability of different food markets impact food insecurity?
