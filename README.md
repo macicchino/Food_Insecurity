@@ -88,6 +88,10 @@
 ## Brenton:
     - Stores
     - Local 
+    
+### Does an increase in farmers' market access reduce food insecurity?
+### Do areas with agrotourism/increased agrotourism have lower levels of food insecurity?
+
 
 ### Data Source: 
 
