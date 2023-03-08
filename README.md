@@ -16,11 +16,11 @@ The original 2020 Food Environment Atlas dataset can be found at: https://www.er
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
 ### Questions
-How does the availability of different food markets impact food insecurity?
+How does physical access to food through resturants, grocerys, and agriculture impact food insecurity?
 
 #### Potential topics
 - Does resturant availability contribute to lowering food insecurity?
-- Does havng more farmers markets or more genral grocery stores have a higher positive impact on food access?
+- which has a higher positive impact on food access havng more farmers markets or more genral grocery stores?
 - How does agritourism influence food insecurity?
 - How do community supported farms verses regular farms have an impact?
                      
