@@ -33,6 +33,12 @@
                                        _on Agro_Tourism
                                        _on CSA Farms 
                                        
+## Farmers market access vrs food insecurity?
+
+### 1. Do areas with more access impact on or correlate with food security or insecurity? -How does the availability of food markets impact on food insecurity
+
+### 2 Is there an increase or decrease in food security/insecurity? Can we then determine by State or County a trend or relationship?                                       
+                                       
 
 # Homework_2 : Identify Hypothesis & Data Set 
 
