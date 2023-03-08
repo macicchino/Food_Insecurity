@@ -188,6 +188,15 @@ FarmDirectory@agriculture.ny.gov
     - https://www.farmers.gov/data
 
 
+# Meeting 2 Notes
+1. Question
+Based on the Datasets we have pulled and the data we have available, ACCESS and specifically PHYSICAL ACCESS.
+
+## Question
+Farmers market access vrs food insecurity?
+1. Do areas with more access impact on or correlate with food security or insecurity? 
+-How does the availability of food markets impact on food insecurity 
+3. Is there an increase or decrease in food security/insecurity? We can then determine by State or County a trend or relationship?
 
 
 # Agricultural Project:   Resources, Tools and Academic Review 
