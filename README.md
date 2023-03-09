@@ -18,12 +18,15 @@ Below, we shall outline and delve into the various elements of the Food Insecuri
 SQL Team Six originally expressed interest in agricultural data and found a comprehensive data set from the United States Department of Agriculture. It contains country wide information on food insecurity and its related areas on a state and county level. 
 
 The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
-Direct download [link](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)
+Direct download [here](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)
 
 Datasets used for the projet/analysis:
     -[insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)
+
     -[stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)
+
     -[local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)
+    
     -[restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)
 
 ## Objective
