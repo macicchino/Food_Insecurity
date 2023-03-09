@@ -1,5 +1,4 @@
-﻿FIPS,State,County,"Household food insecurity (%, three-year average), 2012-14*","Household food insecurity (%, three-year average), 2015-17*","Household food insecurity (change %),2012-14 to 2015-17*",
-FIPS,State,County,FOODINSEC_12_14,FOODINSEC_15_17,CH_FOODINSEC_14_17,Model_answer
+﻿FIPS,State,County,FOODINSEC_12_14,FOODINSEC_15_17,CH_FOODINSEC_14_17,Model_answer
 1001,AL,Autauga,16.8,16.3,-0.5,decr
 1003,AL,Baldwin,16.8,16.3,-0.5,decr
 1005,AL,Barbour,16.8,16.3,-0.5,decr
