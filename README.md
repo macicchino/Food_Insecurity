@@ -20,7 +20,7 @@ How does physical access to food through resturants, grocerys, and agriculture i
 
 #### Potential topics
 - Does resturant availability contribute to lowering food insecurity?
-- which has a higher positive impact on food access havng more farmers markets or more genral grocery stores?
+- Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
 - How do community supported farms verses regular farms have an impact?
                      
