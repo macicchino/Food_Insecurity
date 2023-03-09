@@ -5,6 +5,9 @@
 ## Overview 
 The purpose of this project is to utilize Machine Learning to Predict and Visualize Food Insecurity in the United States of America. It will also take an in depth look at physical access to food in the US and its effects on food insecurity.
 
+### Background
+SQL Team Six started the Project initially sharing a general concensus to explore datasets  related to Agriculture in general and Urban Agriculture in New York City. The team members were assigned various roles to seek out potential datasets and sources of data related to the proposed topic.
+
 ### Dataset
 SQL Team Six originally expressed interest in agricultural data and found a comprehensive data set from the United States Department of Agriculture. It contains country wide information on food insecurity and its related areas on a state and county level. 
 
