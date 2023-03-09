@@ -20,14 +20,11 @@ SQL Team Six originally expressed interest in agricultural data and found a comp
 The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
 Direct download [here](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)
 
-Datasets used for the projet/analysis:
-    -[insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)
-
-    -[stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)
-
-    -[local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)
-    
-    -[restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)
+Datasets used for the projet/analysis:<br>
+[insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)<br>
+[stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)<br>
+[local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
+[restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
 ## Objective
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
