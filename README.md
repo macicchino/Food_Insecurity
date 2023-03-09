@@ -10,7 +10,7 @@ SQL Team Six started the Project initially sharing a concensus to explore datase
 
 Teammates came up with a number of proposed research questions by the second meeting and the USDA dataset was split among members to clean and filter into tables. It was decided that the Topic of the Project was going to be about Food Insecurity in the USA. Tasks were assigned to each team member and the datasets were expected to be committed to the SQL Team Six repository on individual branches. 
 
-The Highlight of the third meeting was having the datasets from the USDA collated and deciding on which variables were measurable enough to be used in a machine learning model. The Access and Insecurity Datasets were chosen and the irrelevant datasets were removed from the team github repository by every team member. Teammates then assigned themselves tasks to clean up the README in time for submission. 
+The Highlight of the third meeting was having the datasets from the USDA collated and deciding on which variables were measurable enough to be used in a machine learning model. The Local, Restaurants, Stores and Insecurity Datasets were chosen and the irrelevant datasets were removed from the team github repository by every team member. Teammates then assigned themselves tasks to clean up the README in time for submission. 
 
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
