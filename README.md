@@ -45,7 +45,7 @@ Datasets used for the projet/analysis:<br>
 
 ### Table Schemas
 
-**Local & Insecurity Schema**
+**Insecurity Schema**
 ![dev_4](Images/Schema.png "Insecurity Image")
 
 ## Objective
