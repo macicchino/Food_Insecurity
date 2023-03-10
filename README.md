@@ -33,23 +33,18 @@ Datasets used for the projet/analysis:<br>
 
 **Local Table**
 
-![dev_1](Images/local.png "Local Image")
+![dev_2](Images/local.png "Local Image")
 
 **Restaurants Table**
-![dev_1](Images/restaurants.png "Restaurants Image")
+![dev_3](Images/restaurants.png "Restaurants Image")
 
 **Insecurity Table**
-![dev_1](Images/insecurity.png "Insecurity Image")
+![dev_4](Images/insecurity.png "Insecurity Image")
 
 ### Table Schemas
 
-Stores Schema
-
-Local Schema
-
-Restaurants Schema
-
-Insecurity Schema
+**Local Schema & Insecurity Schema**
+![dev_4](Images/Schema.png "Insecurity Image")
 
 ## Objective
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
