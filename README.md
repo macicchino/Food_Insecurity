@@ -28,16 +28,17 @@ Datasets used for the projet/analysis:<br>
 
 ### Tables 
 
-Stores Table
+**Stores Table**
 ![dev_1](Images/stores.png "Stores Image")
 
-Local Table
+**Local Table**
+
 ![dev_1](Images/local.png "Local Image")
 
-Restaurants Table
+**Restaurants Table**
 ![dev_1](Images/restaurants.png "Restaurants Image")
 
-Insecurity Table
+**Insecurity Table**
 ![dev_1](Images/insecurity.png "Insecurity Image")
 
 ### Table Schemas
