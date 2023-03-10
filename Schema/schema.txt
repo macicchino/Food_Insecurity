@@ -1,0 +1,82 @@
+insecurity
+-
+FIPS PK int
+State varchar(40)
+County varchar(40)
+FOODINSEC_12_14 float
+FOODINSEC_15_17 float
+CH_FOODINSEC_14_17 float
+Model_answer varchar(10)
+
+local
+-
+FIPS PK int FK - insecurity.FIPS
+State varchar(40)
+County varchar(40)
+PCH_DIRSALES_FARMS_07_12 float
+PCT_LOCLFARM07 float
+PCT_LOCLFARM12 float
+PCT_LOCLSALE07 float
+PCT_LOCLSALE12 float
+PCH_DIRSALES_07_12 float
+PC_DIRSALES07 float
+PC_DIRSALES12 float
+PCH_PC_DIRSALES_07_12 float
+PCH_FMRKT_13_18 float
+FMRKTPTH13 float
+FMRKTPTH18 float
+PCH_FMRKTPTH_13_18 float
+FRESHVEG_FARMS07 float
+FRESHVEG_FARMS12 float
+PCH_FRESHVEG_FARMS_07_12 float
+FRESHVEG_ACRES07 float
+FRESHVEG_ACRES12 float
+PCH_FRESHVEG_ACRES_07_12 float
+FRESHVEG_ACRESPTH07 float
+FRESHVEG_ACRESPTH12 float
+PCH_FRESHVEG_ACRESPTH_07_12 float
+PCH_CSA_07_12 float
+PCH_AGRITRSM_OPS_07_12 float
+PCH_AGRITRSM_RCT_07_12 float
+FARM_TO_SCHOOL13 float
+FARM_TO_SCHOOL15 float
+
+stores
+--
+FIPS PK int FK - insecurity.FIPS  
+State varchar(40)
+County varchar(40)
+PCH_GROC_11_16 float
+GROCPTH11 float
+GROCPTH16 float
+PCH_GROCPTH_11_16 float
+PCH_SUPERC_11_16 float
+SUPERCPTH11 float
+SUPERCPTH16 float
+PCH_SUPERCPTH_11_16 float
+PCH_CONVS_11_16 float
+CONVSPTH11 float
+CONVSPTH16 float
+PCH_CONVSPTH_11_16 float
+PCH_SPECS_11_16 float
+SPECSPTH11 float
+SPECSPTH16 float
+PCH_SPECSPTH_11_16 float
+
+restaurants 
+--
+FIPS PK int FK - insecurity.FIPS    
+State varchar(40)
+County varchar(40)
+PCH_FFR_11_16 float
+FFRPTH11 float
+FFRPTH16 float
+PCH_FFRPTH_11_16 float
+PCH_FSR_11_16 float
+FSRPTH11 float
+FSRPTH16 float
+PCH_FSRPTH_11_16 float
+PC_FFRSALES07 float
+PC_FFRSALES12 float
+PC_FSRSALES07 float
+PC_FSRSALES12 float
