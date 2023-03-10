@@ -52,10 +52,10 @@ Datasets used for the projet/analysis:<br>
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
 ### Questions
-How does physical access to food through resturants, grocerys, and agriculture impact food insecurity?
+How does physical access to food through resturants, grocery stores and agriculture impact food insecurity?
 
 #### Potential topics
-- Does resturant availability contribute to lowering food insecurity?
+- Does restaurant availability contribute to lowering food insecurity?
 - Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
 - How do community supported farms verses regular farms have an impact?
