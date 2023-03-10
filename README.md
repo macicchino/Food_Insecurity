@@ -26,6 +26,30 @@ Datasets used for the projet/analysis:<br>
 [local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
+### Tables 
+
+Stores Table
+![dev_1](Images/stores.png "Stores Image")
+
+Local Table
+![dev_1](Images/local.png "Local Image")
+
+Restaurants Table
+![dev_1](Images/restaurants.png "Restaurants Image")
+
+Insecurity Table
+![dev_1](Images/insecurity.png "Insecurity Image")
+
+### Table Schemas
+
+Stores Schema
+
+Local Schema
+
+Restaurants Schema
+
+Insecurity Schema
+
 ## Objective
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
