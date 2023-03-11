@@ -21,6 +21,7 @@ SQL Team Six originally expressed interest in agricultural data and found a comp
 
 The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
 Direct download [here](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)
+2009-2011 food insecurity data: https://www.ers.usda.gov/webdocs/publications/45020/30967_err141.pdf
 
 Datasets used for the projet/analysis:<br>
 [insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)<br>
