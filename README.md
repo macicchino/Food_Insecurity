@@ -12,7 +12,9 @@ Teammates came up with a number of proposed research questions by the second mee
 
 The Highlight of the third meeting was having the datasets from the USDA collated and deciding on which variables were measurable enough to be used in a machine learning model. The Local, Restaurants, Stores and Insecurity Datasets were chosen and the irrelevant datasets were removed from the team github repository by every team member. Teammates then assigned themselves tasks to clean up the README.
 
-The team concluded the Project Week 1 submission deliverables during the fourth meeting by finishing up with the Schema for the database. The README was updated with screenshots of the tables and the Entity Relationship Diagram (ERD) in time for submission.
+The team concluded the Project Week 1 submission deliverables during the fourth meeting by finishing up with the Schema for the database. The README was updated with screenshots of the tables and the Entity Relationship Diagram (ERD) in time for submission. This meeting involved deliberations on the possible model to use for the machine learning portion of the project. A team member took up the task of searching for data to complement the alreading existing data in order to have the dates synchronized accross the datasets. A couple of the team members took responsibility for the cleaning up and transformation of the data and testing the machine learning model. 
+
+Following the submission of the first project deliverable, Team 6 moved on to planning for submission of the next deliveable. Numerous deliberations took place with teammates deciding to obtain some time-specific dataset in order to run the unsupervised machine learning model proposed. Other members were assigned to work on dashboard visualizations, after the final cleaned data was uploaded. A draft powerpoint presentation was  also started as a guide to the final presentation expected by Group 6, upon completion of the final project.
 
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
@@ -28,6 +30,9 @@ Datasets used for the projet/analysis:<br>
 [stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)<br>
 [local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
+
+### Description of Data
+The Tables below include Stores Table, Local Table, Restaurants Table and Insecurity Table. 
 
 ### Tables 
 
