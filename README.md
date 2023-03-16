@@ -57,7 +57,9 @@ The Tables below include Stores Table, Local Table, Restaurants Table and Insecu
 ### Table Schemas
 
 **Insecurity Schema**
+
 The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 4 tables.
+
 ![dev_4](Images/Schema.png "Insecurity Image")
 
 ## Objective
