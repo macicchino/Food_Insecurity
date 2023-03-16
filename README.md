@@ -54,13 +54,13 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 **Restaurants Table**
 
- Restaurants Table shows the change by percentage(%) in Fast Food Restaurants from 2011 to 2016 by FIPS, State and County.
+ Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
 
 ![dev_3](Images/restaurants.png "Restaurants Image")
 
 **Insecurity Table**
 
- Insecurity Table shows the change by percentage(%) of Food Insecurity from 2012-2014,2014-2015,2014-2017 by FIPS, State and County.
+ Insecurity Table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
 
 ![dev_4](Images/insecurity.png "Insecurity Image")
 
