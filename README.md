@@ -70,4 +70,11 @@ How does physical access to food through restaurants, grocery stores and agricul
 - Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
 - How do community supported farms verses regular farms have an impact?
+
+## Descriptive Analysis and Data Visualization
+
+### Food Insecurity by State(%)
+
+https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
                      
