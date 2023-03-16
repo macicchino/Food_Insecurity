@@ -42,16 +42,26 @@ The Tables below include Stores Table, Local Table, Restaurants Table and Insecu
 ### Tables 
 
 **Stores Table**
+The Stores Table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
+
 ![dev_1](Images/stores.png "Stores Image")
 
 **Local Table**
 
+ The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita from 2007 to 2012 by FIPS, State and County.
+
 ![dev_2](Images/local.png "Local Image")
 
 **Restaurants Table**
+
+ Restaurants Table shows the change by percentage(%) in Fast Food Restaurants from 2011 to 2016 by FIPS, State and County.
+
 ![dev_3](Images/restaurants.png "Restaurants Image")
 
 **Insecurity Table**
+
+ Insecurity Table shows the change by percentage(%) of Food Insecurity from 2012-2014,2014-2015,2014-2017 by FIPS, State and County.
+
 ![dev_4](Images/insecurity.png "Insecurity Image")
 
 ### Table Schemas
