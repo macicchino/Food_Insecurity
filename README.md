@@ -48,7 +48,7 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 **Local Table**
 
- The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita from 2007 to 2012 by FIPS, State and County.
+ The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
 
 ![dev_2](Images/local.png "Local Image")
 
