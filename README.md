@@ -112,7 +112,8 @@ https://public.tableau.com/shared/CN2GM897Z?:display_count=n&:origin=viz_share_l
 
 ### Change in Stores by State(%)
 
-The scatter plot below shows the distribution of Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
+The scatter plot below shows the distribution of change by percentage(%) in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
+Convenience stores overall, recorded increasingly higher changes in a significant number of States  while Grocery stores across the USA rather recorded diminishing number of stores from 2011-2016 as shown below. 
 
 ![2011-2016 Change in Stores(%)](https://user-images.githubusercontent.com/114967995/225656909-949e3b65-5a83-4194-8d1d-12b86bfcec32.png)
 
