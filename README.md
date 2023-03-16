@@ -74,7 +74,7 @@ How does physical access to food through restaurants, grocery stores and agricul
 ## Descriptive Analysis and Data Visualization
 
 ### Food Insecurity by State(%)
-
+Between 2008 and 2010, the top 5 states with the lowest levels recorded for Food Insecurity were North Dakota, Virginia, New Hampshire, Delaware and Minnesota. Food Insecurity however increased between 2011 and 2013 for the first 22 States, recorded with the lowest levels of Food Insecurity.  
 
 ![2008-2016 Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492005-3dcd8270-f543-409e-b9b5-e00dcb3e0e20.png)
 
