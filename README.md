@@ -42,21 +42,34 @@ The Tables below include Stores Table, Local Table, Restaurants Table and Insecu
 ### Tables 
 
 **Stores Table**
+The Stores Table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
+
 ![dev_1](Images/stores.png "Stores Image")
 
 **Local Table**
 
+ The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
+
 ![dev_2](Images/local.png "Local Image")
 
 **Restaurants Table**
+
+ Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
+
 ![dev_3](Images/restaurants.png "Restaurants Image")
 
 **Insecurity Table**
+
+ Insecurity Table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
+
 ![dev_4](Images/insecurity.png "Insecurity Image")
 
 ### Table Schemas
 
 **Insecurity Schema**
+
+The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 4 tables (as shown in the image below)
+
 ![dev_4](Images/Schema.png "Insecurity Image")
 
 ## Objective
@@ -70,4 +83,29 @@ How does physical access to food through restaurants, grocery stores and agricul
 - Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
 - How do community supported farms verses regular farms have an impact?
+
+## Descriptive Analysis and Data Visualization
+
+### Food Insecurity by State(%)
+Between 2008 and 2010, the top 5 states with the lowest levels recorded for Food Insecurity were North Dakota, Virginia, New Hampshire, Delaware and Minnesota. Food Insecurity however increased between 2011 and 2013 for the first 22 States, recorded with the lowest levels of Food Insecurity.  
+Mississipi recorded the highest level of Food Insecurity, followed by Texas, Alaba, Arkansas and Georgia between 2008 and 2010 as the 5 Food Insecure States in the USA. 
+
+![2008-2016 Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492005-3dcd8270-f543-409e-b9b5-e00dcb3e0e20.png)
+
+
+https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+### Change in Food Insecurity by State(%)
+
+
+![2011-2014 Change In Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492587-4f0f5445-8aa3-4b56-a73c-b1de1085c8b7.png)
+
                      
+https://public.tableau.com/views/ChangeinFood_Insecurity_Data_Visualizations2011-2014/2011-2014ChangeInFoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+![2014-2017 Change In Food Insecurity(%)](https://user-images.githubusercontent.com/114967995/225492944-898e5e52-2b3e-48a0-909b-d59b04194072.png)
+
+
+https://public.tableau.com/shared/CN2GM897Z?:display_count=n&:origin=viz_share_link
