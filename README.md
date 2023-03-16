@@ -79,13 +79,10 @@ How does physical access to food through restaurants, grocery stores and agricul
 ![2008-2016 Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492005-3dcd8270-f543-409e-b9b5-e00dcb3e0e20.png)
 
 
-
 https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 ### Change in Food Insecurity by State(%)
-
-#### 2011 to 2014
 
 
 ![2011-2014 Change In Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492587-4f0f5445-8aa3-4b56-a73c-b1de1085c8b7.png)
