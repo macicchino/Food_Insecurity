@@ -53,11 +53,11 @@ Two key issues with out model is (1) balancing the heavily skewed dataset and (2
 
 Balanced Random Forest Classifier
 
-![dev_8](Images/BalancedRandomForestClassifier.png "Model1")
+![dev_8](Resources/Images/BalancedRandomForestClassifier.png "Model1")
 
 Easy Ensemble AdaBoost Classifier
 
-![dev_9](Images/EasyEnsembleAdaBoostClassifier.png "Model2")
+![dev_9](Resources/Images/EasyEnsembleAdaBoostClassifier.png "Model2")
 
 
 ### Description of Data
@@ -68,25 +68,25 @@ The Tables below include Stores Table, Local Table, Restaurants Table and Insecu
 **Stores Table**
 The Stores Table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
 
-![dev_1](Images/stores.png "Stores Image")
+![dev_1](Resources/Images/stores.png "Stores Image")
 
 **Local Table**
 
  The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
 
-![dev_2](Images/local.png "Local Image")
+![dev_2](Resources/Images/local.png "Local Image")
 
 **Restaurants Table**
 
  Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
 
-![dev_3](Images/restaurants.png "Restaurants Image")
+![dev_3](Resources/Images/restaurants.png "Restaurants Image")
 
 **Insecurity Table**
 
  Insecurity Table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
 
-![dev_4](Images/insecurity.png "Insecurity Image")
+![dev_4](Resources/Images/insecurity.png "Insecurity Image")
 
 ### Table Schemas
 
@@ -94,7 +94,7 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 4 tables (as shown in the image below)
 
-![dev_4](Images/Schema.png "Insecurity Image")
+![dev_4](Resources/Images/Schema.png "Insecurity Image")
 
 <details><summary>Column names:</summary>
 <p>
@@ -141,7 +141,7 @@ From 2014 to 2016, while the 5 States which recorded the lowest levels of Food I
 ![2008-2016 Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492005-3dcd8270-f543-409e-b9b5-e00dcb3e0e20.png)
 
 
-https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau Link](https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ### Change in Food Insecurity by State(%)
