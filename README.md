@@ -16,6 +16,10 @@ The team concluded the Project Week 1 submission deliverables during the fourth 
 
 Following the submission of the first project deliverable, Team 6 moved on to planning for submission of the next deliverable. Numerous deliberations took place, with teammates deciding to obtain some time-specific dataset in order to run the unsupervised machine learning model proposed. Other members were assigned to work on dashboard visualizations, after the final cleaned data was uploaded. A draft powerpoint presentation was  also started as a guide to the final presentation expected by Group 6, upon completion of the final project.
 
+An Emergency meeting was required prior to the sixth meeting/submission day meeting during which the first Machine learning model was reviewed and an extra food insecurity dataset from 2017 to 2019 was retrieved to compare the model which would run on data from 2011 to 2016. Visualizations were also reviewed and suggestions were made. 
+
+Team 6 met agin on the submission day of Deliverable to review the Machine learning models proposed, the visualizations and powerpoint presentations. Team members split tasks in order to get the github cleaned up and files and folders organized for submission. 
+
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
 ### Dataset
