@@ -36,6 +36,14 @@ Datasets used for the projet/analysis:<br>
 [local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
+### Model Results- Confusion Matrix and Accuracy Scores:
+
+Balanced Random Forest Classifier
+![dev_1](Images/Balanced Random Forest Classifier.png "Model1")
+Easy Ensemble AdaBoost Classifier
+![dev_1](Images/Easy Ensemble AdaBoost Classifier.png "Model2")
+
+
 ### Description of Data
 The Tables below include Stores Table, Local Table, Restaurants Table and Insecurity Table. 
 
