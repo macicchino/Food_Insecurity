@@ -40,11 +40,11 @@ Datasets used for the projet/analysis:<br>
 
 Balanced Random Forest Classifier
 
-![dev_8](Images/Balanced Random Forest Classifier.png "Model1")
+![dev_8](Images/BalancedRandomForestClassifier.png "Model1")
 
 Easy Ensemble AdaBoost Classifier
 
-![dev_9](Images/Easy Ensemble AdaBoost Classifier.png "Model2")
+![dev_9](Images/EasyEnsembleAdaBoostClassifier.png "Model2")
 
 
 ### Description of Data
