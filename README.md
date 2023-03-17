@@ -36,7 +36,16 @@ Datasets used for the projet/analysis:<br>
 [local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
-### Model Results- Confusion Matrix and Accuracy Scores:
+### Supervised Machine Learning Model:
+
+Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. 
+
+We use a number feature variables, on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, we look to predict the binary change of the food insecurities increase of deacrease by State. We identified The Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier as our best sampling methods using Confusion Matrices and Accuracy Scores. 
+
+Two key issues with out model is (1) balancing the heavily skewed dataset and (2) making state level predictions using county level features.  
+
+
+### Model Results: Confusion Matrix and Accuracy Scores:
 
 Balanced Random Forest Classifier
 
