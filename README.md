@@ -118,9 +118,10 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
 ### Questions
-How does physical access to food through restaurants, grocery stores and agriculture impact food insecurity?
+How does physical access to food through restaurants and grocery stores impact food insecurity?
 
 #### Potential topics
+- How are fast food expenditures related to food insecurity?
 - Does restaurant availability contribute to lowering food insecurity?
 - Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
