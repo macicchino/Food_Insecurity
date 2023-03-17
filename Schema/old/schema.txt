@@ -3,28 +3,43 @@ insecurity
 FIPS PK int
 State varchar(40)
 County varchar(40)
-FOODINSEC_08_10 float
-FOODINSEC_09_11 float
-FOODINSEC_11_13 float
 FOODINSEC_12_14 float
-FOODINSEC_14_16 float
 FOODINSEC_15_17 float
-FOODINSEC_17_19 float
-CH_FOODINSEC_14-16_to_17-19 float
-BI_Model_answer_14-16_to_17-19 float
-CH_FOODINSEC_11_14 float
 CH_FOODINSEC_14_17 float
-FOODINSEC_09_14_AVG float
-FOODINSEC_12_17_AVG float
-CH_FOODINSEC_09_14_TO_15_17 float
-CH_FOODINSEC_09_11_TO_12_17 float
-Model_answer_09-14_15-17 float
-Model_answer_09-11_12-17 float
-Model_answer_12-14_15-17 float
-BI_Model_answer_09-14_15-17 float
-BI_Model_answer_09-11_12-17 float
-BI_Model_answer_12-14_15-17 float
+Model_answer varchar(10)
 
+local
+-
+FIPS PK int FK - insecurity.FIPS
+State varchar(40)
+County varchar(40)
+PCH_DIRSALES_FARMS_07_12 float
+PCT_LOCLFARM07 float
+PCT_LOCLFARM12 float
+PCT_LOCLSALE07 float
+PCT_LOCLSALE12 float
+PCH_DIRSALES_07_12 float
+PC_DIRSALES07 float
+PC_DIRSALES12 float
+PCH_PC_DIRSALES_07_12 float
+PCH_FMRKT_13_18 float
+FMRKTPTH13 float
+FMRKTPTH18 float
+PCH_FMRKTPTH_13_18 float
+FRESHVEG_FARMS07 float
+FRESHVEG_FARMS12 float
+PCH_FRESHVEG_FARMS_07_12 float
+FRESHVEG_ACRES07 float
+FRESHVEG_ACRES12 float
+PCH_FRESHVEG_ACRES_07_12 float
+FRESHVEG_ACRESPTH07 float
+FRESHVEG_ACRESPTH12 float
+PCH_FRESHVEG_ACRESPTH_07_12 float
+PCH_CSA_07_12 float
+PCH_AGRITRSM_OPS_07_12 float
+PCH_AGRITRSM_RCT_07_12 float
+FARM_TO_SCHOOL13 float
+FARM_TO_SCHOOL15 float
 
 stores
 --
@@ -48,7 +63,7 @@ SPECSPTH11 float
 SPECSPTH16 float
 PCH_SPECSPTH_11_16 float
 
-\restaurants 
+restaurants 
 --
 FIPS PK int FK - insecurity.FIPS    
 State varchar(40)
