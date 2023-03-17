@@ -177,10 +177,10 @@ https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFa
 - Slack
 - Excel
 - Python
- - Jupyter Notebook 
-  - Pandas library
-  - sklearn library
-  - imblearn
+  - Jupyter Notebook 
+   - Pandas library
+   - sklearn library
+   - imblearn
 - ERD Generator
 - PostgresSQL
 - Tableau Public
