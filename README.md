@@ -171,3 +171,8 @@ The Image Below shows Change in Agritourism Operations versus Change in CSA Farm
 
 
 https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+## Tools and Languages utilized
+- Python/Pandas
+- SQL
+- Tableau Public
