@@ -37,7 +37,6 @@ Direct download [here.](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnv
 Datasets used for the projet/analysis:<br>
 [insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)<br>
 [stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)<br>
-[local.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/local.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
 ### Supervised Machine Learning Model:
@@ -150,13 +149,13 @@ Maine and Nevada recorded the lowest negative change in Food Insecurity, hence t
 ![2011-2014 Change In Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492587-4f0f5445-8aa3-4b56-a73c-b1de1085c8b7.png)
 
                      
-https://public.tableau.com/views/ChangeinFood_Insecurity_Data_Visualizations2011-2014/2011-2014ChangeInFoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau Link](https://public.tableau.com/views/ChangeinFood_Insecurity_Data_Visualizations2011-2014/2011-2014ChangeInFoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ![2014-2017 Change In Food Insecurity(%)](https://user-images.githubusercontent.com/114967995/225492944-898e5e52-2b3e-48a0-909b-d59b04194072.png)
 
 
-https://public.tableau.com/shared/CN2GM897Z?:display_count=n&:origin=viz_share_link
+[Tableau Link](https://public.tableau.com/shared/CN2GM897Z?:display_count=n&:origin=viz_share_link)
 
 ### Change in Stores by State(%)
 
@@ -166,7 +165,7 @@ Convenience stores overall, recorded increasingly higher changes in a significan
 ![2011-2016 Change in Stores(%)](https://user-images.githubusercontent.com/114967995/225656909-949e3b65-5a83-4194-8d1d-12b86bfcec32.png)
 
 
-https://public.tableau.com/views/ChangeinStores2011-2016byState/2011-2016ChangeinStores?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau Link](https://public.tableau.com/views/ChangeinStores2011-2016byState/2011-2016ChangeinStores?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ### Change in Local Agritourism Operations by State(%)
@@ -175,7 +174,7 @@ The Image Below shows Change in Agritourism Operations versus Change in CSA Farm
 ![Change in Local Agritourism Operation vrs and Farms and Farm Sales](https://user-images.githubusercontent.com/114967995/225686585-608856ad-e52f-4a34-8e96-65548436e191.png)
 
 
-https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Tools and Languages utilized
 - Slack
