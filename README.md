@@ -95,7 +95,7 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 
 ![dev_4](Resources/Images/Schema.png "Insecurity Image")
 
-<details><summary>Column names:</summary>
+<details><summary><h1>Column names:</h1></summary>
 <p>
 
 #### Insecurity Table:
@@ -127,12 +127,28 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 | BI_Model_answer_12-14_15-17    | BI_Model-Household food insecurity (change %),2012-14 to 2015-17\* |
 ```
 
- #### Table 2:
+ #### Stores Table:
 
-```| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+```| FIPS                | FIPS                                                     |
+| ------------------- | -------------------------------------------------------- |
+| State               | State                                                    |
+| County              | County                                                   |
+| PCH_GROC_11_16      | Grocery stores (% change), 2011-16                       |
+| GROCPTH11           | Grocery stores/1,000 pop, 2011                           |
+| GROCPTH16           | Grocery stores/1,000 pop, 2016                           |
+| PCH_GROCPTH_11_16   | Grocery stores/1,000 pop (% change), 2011-16             |
+| PCH_SUPERC_11_16    | Supercenters & club stores (% change), 2011-16           |
+| SUPERCPTH11         | Supercenters & club stores/1,000 pop, 2011               |
+| SUPERCPTH16         | Supercenters & club stores/1,000 pop, 2016               |
+| PCH_SUPERCPTH_11_16 | Supercenters & club stores/1,000 pop (% change), 2011-16 |
+| PCH_CONVS_11_16     | Convenience stores (% change), 2011-16                   |
+| CONVSPTH11          | Convenience stores/1,000 pop, 2011                       |
+| CONVSPTH16          | Convenience stores/1,000 pop, 2016                       |
+| PCH_CONVSPTH_11_16  | Convenience stores/1,000 pop (% change), 2011-16         |
+| PCH_SPECS_11_16     | Specialized food stores (% change), 2011-16              |
+| SPECSPTH11          | Specialized food stores/1,000 pop, 2011                  |
+| SPECSPTH16          | Specialized food stores/1,000 pop, 2016                  |
+| PCH_SPECSPTH_11_16  | Specialized food stores/1,000 pop (% change), 2011-16    |
 ```
  
 </p>
