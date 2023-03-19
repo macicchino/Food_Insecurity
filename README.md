@@ -95,7 +95,7 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (as shown in the image below)
 
-<details><summary><h2>Column names:</h2></summary>
+<details><summary><h3>Column names:</h3></summary>
 <p>
 
 #### Insecurity Table:
