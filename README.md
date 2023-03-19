@@ -95,7 +95,7 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 
 ![dev_4](Resources/Images/Schema.png "Insecurity Image")
 
-<details><summary><h1>Column names:</h1></summary>
+<details><summary><h2>Column names:</h2></summary>
 <p>
 
 #### Insecurity Table:
@@ -150,7 +150,27 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 | SPECSPTH16          | Specialized food stores/1,000 pop, 2016                  |
 | PCH_SPECSPTH_11_16  | Specialized food stores/1,000 pop (% change), 2011-16    |
 ```
- 
+
+  #### Restaurants Table:
+
+```| FIPS             | FIPS                                                   |
+| ---------------- | ------------------------------------------------------ |
+| State            | State                                                  |
+| County           | County                                                 |
+| PCH_FFR_11_16    | Fast-food restaurants (% change), 2011-16              |
+| FFRPTH11         | Fast-food restaurants/1,000 pop, 2011                  |
+| FFRPTH16         | Fast-food restaurants/1,000 pop, 2016                  |
+| PCH_FFRPTH_11_16 | Fast-food restaurants/1,000 pop (% change), 2011-16    |
+| PCH_FSR_11_16    | Full-service restaurants (% change), 2011-16           |
+| FSRPTH11         | Full-service restaurants/1,000 pop, 2011               |
+| FSRPTH16         | Full-service restaurants/1,000 pop, 2016               |
+| PCH_FSRPTH_11_16 | Full-service restaurants/1,000 pop (% change), 2011-16 |
+| PC_FFRSALES07    | Expenditures per capita, fast food, 2007\*             |
+| PC_FFRSALES12    | Expenditures per capita, fast food, 2012\*             |
+| PC_FSRSALES07    | Expenditures per capita, restaurants, 2007\*           |
+| PC_FSRSALES12    | Expenditures per capita, restaurants, 2012\*           |
+```
+
 </p>
 </details>
 
