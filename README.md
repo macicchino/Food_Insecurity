@@ -174,7 +174,12 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 </p>
 </details>
 
-![dev_4](Resources/Images/Schema.png "Insecurity Image")
+<details><summary><h3>Schema</h3></summary>
+
+<img src="Resources/Images/schema.png" width=70% height=70% title="Schema">
+
+</details>
+
 
 ## Objective
 From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
