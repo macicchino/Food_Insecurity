@@ -98,12 +98,33 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 <details><summary>Column names:</summary>
 <p>
 
-#### Table 1:
+#### Insecurity Table:
 
-```| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+```| FIPS                           | FIPS                                                               |
+| ------------------------------ | ------------------------------------------------------------------ |
+| STATE                          | State                                                              |
+| COUNTY                         | COUNTY                                                             |
+| FOODINSEC_08_10                | Household food insecurity (%, three-year average), 2008-10\*       |
+| FOODINSEC_09_11                | Household food insecurity (%, three-year average), 2009-11\*       |
+| FOODINSEC_11_13                | Household food insecurity (%, three-year average), 2011-13\*       |
+| FOODINSEC_12_14                | Household food insecurity (%, three-year average), 2012-14\*       |
+| FOODINSEC_14_16                | Household food insecurity (%, three-year average), 2014-16\*       |
+| FOODINSEC_15_17                | Household food insecurity (%, three-year average), 2015-17\*       |
+| FOODINSEC_17_19                | Household food insecurity (%, three-year average), 2017-19\*       |
+| CH_FOODINSEC_14-16_to_17-19    | Household food insecurity (change %),2014-16 to 2017-19\*          |
+| BI_Model_answer_14-16_to_17-19 | BI_Model-Household food insecurity (change %),2014-16 to 2017-19\* |
+| CH_FOODINSEC_11_14             | Household food insecurity (change %),2009-11 to 2012-15\*          |
+| CH_FOODINSEC_14_17             | Household food insecurity (change %),2012-14 to 2015-17\*          |
+| FOODINSEC_09_14_AVG            | Household food insecurity (%, six-year average), 2009-14\*         |
+| FOODINSEC_12_17_AVG            | Household food insecurity (%, six-year average), 2012-17\*         |
+| CH_FOODINSEC_09_14_TO_15_17    | Household food insecurity (change %),2009-14 to 2015-17\*          |
+| CH_FOODINSEC_09_11_TO_12_17    | Household food insecurity (change %),2009-11 to 2012-17\*          |
+| Model_answer_09-14_15-17       | Model-Household food insecurity (change %),2009-14 to 2015-17\*    |
+| Model_answer_09-11_12-17       | Model-Household food insecurity (change %),2009-11 to 2012-17\*    |
+| Model_answer_12-14_15-17       | Model-Household food insecurity (change %),2012-14 to 2015-17\*    |
+| BI_Model_answer_09-14_15-17    | BI_Model-Household food insecurity (change %),2009-14 to 2015-17\* |
+| BI_Model_answer_09-11_12-17    | BI_Model-Household food insecurity (change %),2009-11 to 2012-17\* |
+| BI_Model_answer_12-14_15-17    | BI_Model-Household food insecurity (change %),2012-14 to 2015-17\* |
 ```
 
  #### Table 2:
