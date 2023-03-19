@@ -50,14 +50,17 @@ Two key issues with out model is (1) balancing the heavily skewed dataset and (2
 
 ### Model Results: Confusion Matrix and Accuracy Scores:
 
-Balanced Random Forest Classifier
+<details><summary><h2>Model 1: Balanced Random Forest Classifier</h2></summary>
 
-![dev_8](Resources/Images/BalancedRandomForestClassifier.png "Model1")
+<img src="Resources/Images/BalancedRandomForestClassifier.png" width=70% height=70% title="Balanced Random Forest Classifier">
 
-Easy Ensemble AdaBoost Classifier
+</details>
 
-![dev_9](Resources/Images/EasyEnsembleAdaBoostClassifier.png "Model2")
+<details><summary><h2>Model 2: Easy Ensemble AdaBoost Classifier</h2></summary>
 
+<img src="Resources/Images/EasyEnsembleAdaBoostClassifier.png" width=70% height=70% title="Easy Ensemble AdaBoost Classifier">
+
+</details>
 
 ### Description of Data
 The Tables below include Stores Table, Local Table, Restaurants Table and Insecurity Table. 
@@ -91,7 +94,7 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 **Insecurity Schema**
 
-The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 4 tables (as shown in the image below)
+The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (as shown in the image below)
 
 <details><summary><h2>Column names:</h2></summary>
 <p>
