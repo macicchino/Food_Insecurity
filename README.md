@@ -50,13 +50,12 @@ Two key issues with out model is (1) balancing the heavily skewed dataset and (2
 
 ### Model Results: Confusion Matrix and Accuracy Scores:
 
-<details><summary><h2>Model 1: Balanced Random Forest Classifier</h2></summary>
+<details><summary><h3>Model 1: Balanced Random Forest Classifier</h3></summary>
 
 <img src="Resources/Images/BalancedRandomForestClassifier.png" width=70% height=70% title="Balanced Random Forest Classifier">
 
 </details>
-
-<details><summary><h2>Model 2: Easy Ensemble AdaBoost Classifier</h2></summary>
+<details><summary><h3>Model 2: Easy Ensemble AdaBoost Classifier</h3></summary>
 
 <img src="Resources/Images/EasyEnsembleAdaBoostClassifier.png" width=70% height=70% title="Easy Ensemble AdaBoost Classifier">
 
