@@ -176,7 +176,7 @@ The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and S
 
 <details><summary><h3>Schema</h3></summary>
 
-<img src="Resources/Images/schema.png" width=70% height=70% title="Schema">
+<img src="Resources/Images/Schema.png" width=70% height=70% title="Schema">
 
 </details>
 
