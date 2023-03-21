@@ -242,8 +242,10 @@ The image below shows Change in Agritourism Operations versus Change in CSA Farm
 ## Dashboard
 
 [Food Insecurity and Stores](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodinsecurityandFoodStores)
-[Food Insecurity and Restaurants] (https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodInsecurityandResturants#1)
-[Food Insecurity Over Time] (https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodInsecurityOverTime#2)
+
+[Food Insecurity and Restaurants](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodInsecurityandResturants#1)
+
+[Food Insecurity Over Time](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodInsecurityOverTime#2)
 
 ## Tools and Languages utilized
 - Slack
