@@ -239,6 +239,10 @@ The Image Below shows Change in Agritourism Operations versus Change in CSA Farm
 
 [Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## Dashboard
+
+[Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/FoodinsecurityandFoodStores)
+
 ## Tools and Languages utilized
 - Slack
 - Excel
