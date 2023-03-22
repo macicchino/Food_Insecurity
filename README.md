@@ -12,7 +12,7 @@ SQL Team 6 had an initial interest in New York Urban agriculture and utilized th
 
 In taking a further look at the dataset the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. The data was cleaned and the group selected the variables to use based on dates and the groups interest in how the variables related to changes in food insecurity.
 
-Below, we shall outline and delve into the various elements of the Food Insecurity Project.
+Below outlines and explores the various elements of the Food Insecurity Project.
 
 ### Datasets
 
@@ -33,7 +33,7 @@ Datasets used for the project:<br>
 
 Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. 
 
-We use a number of feature variables, on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, we look to predict the binary change of the food insecurities increase of decrease by State. We identified The Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier as our best sampling methods using Confusion Matrices and Accuracy Scores. 
+A number of feature variables are used on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, the goal is to predict the binary change of the food insecurities increase of decrease by State. The group identified The Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier as our best sampling methods using Confusion Matrices and Accuracy Scores. 
 
 Two key issues with the model are balancing the heavily skewed dataset and making state level predictions using county level features.
 
@@ -52,12 +52,12 @@ Two key issues with the model are balancing the heavily skewed dataset and makin
 </details>
 
 ### Description of Data
-The tables below include Stores Table, Local Table, Restaurants Table and Insecurity Table. 
+The tables below include the Stores Table, Local Table, Restaurants Table and Insecurity Table. 
 
 #### Tables 
 
 <Details><Summary>Stores Table</Summary>
-The Stores Table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
+The stores table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
 
 ![dev_1](Resources/Images/stores.png "Stores Image")
 
@@ -65,7 +65,7 @@ The Stores Table shows the change by percentage(%) of Grocery stores from 2011 t
 
 <Details><Summary>Local Table</Summary>
 
-The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
+The local table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
 
 ![dev_2](Resources/Images/local.png "Local Image")
  
@@ -73,7 +73,7 @@ The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms wi
 
 <Details><Summary>Restaurants Table</Summary>
 
-Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
+The restaurants table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
 
 ![dev_3](Resources/Images/restaurants.png "Restaurants Image")
  
@@ -81,14 +81,14 @@ Restaurants Table shows the change by percentage(%) in Fast Food  and Full Servi
 
 <Details><Summary>Insecurity Table</Summary>
 
- Insecurity Table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
+ The insecurity table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
 
 ![dev_4](Resources/Images/insecurity.png "Insecurity Image")
  </Details>
 
 #### Table Schemas: Food Insecurity
 
-The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (as shown in the image below)
+An Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (see the images below)
 
 <details><summary>Column names</summary>
 <p>
