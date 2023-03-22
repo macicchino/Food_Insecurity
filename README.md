@@ -1,8 +1,10 @@
 
-# Final Project: Food Insecurity <dl><sub>by SQL Team 6</sub></dl>
-<img width="1165" height="250" alt="Produce" src="https://user-images.githubusercontent.com/112206035/223837617-92232bb1-3bd4-4c3b-bee0-421ffb1c9f1a.png">
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/112206035/227010828-fba23919-b446-4ac6-ac5a-94715b43603c.jpeg">
+
+# Final Project: Food Insecurity <dl><sub>by SQL Team 6 </sub></dl>
 
 ## Overview 
+
 The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America. It will also take an in depth look at physical access to food in the US and its effects on food insecurity.
 
 ### Background
