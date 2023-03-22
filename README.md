@@ -236,7 +236,7 @@ The image below shows Change in Agritourism Operations versus Change in CSA Farm
 <img width="1423" alt="Screen Shot 2023-03-22 at 12 01 31 PM" src="https://user-images.githubusercontent.com/112206035/226965478-f60c35ab-d7a3-4a61-b696-608fd420cfb5.png">
 </details>
 
-[Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Extra Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Tools and Languages utilized
