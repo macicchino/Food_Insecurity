@@ -20,6 +20,8 @@ An extra meeting was required prior to the sixth meeting/submission day meeting 
 
 Team 6 met again on submission day of the second deliverable to review the machine learning models proposed, the visualizations and PowerPoint presentations. Team members split tasks in order to get the GitHub cleaned up and files and folders organized for submission.
 
+The final week of the project completion and presentation had Team 6 meeting to tie up ends and finalize task division in order to pull of a successful presentation of  the Food insecurity project. Slides were allocated to each team member and a set date and time was chosen to meet and practice the presentation in order to execute it within the stipulated allocated timeframe.
+
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
 ### Dataset
@@ -257,3 +259,4 @@ The image below shows Change in Agritourism Operations versus Change in CSA Farm
 - PostgresSQL
 - Tableau Public
 - Zoom
+- Google Docs
