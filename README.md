@@ -209,7 +209,7 @@ From 2014 to 2016, while the five states which recorded the lowest levels of foo
 
 
 ### Change in Food Insecurity by State(%)
-Maine and Nevada recorded the lowest negative change in food insecurity, hence these two States had decreasing food insecurity from 2011 to 2014 while Missouri and Nevada recorded the largest change, implying that food insecurity increased the most in these states from 2011 to 2014.
+Maine and Nevada recorded the lowest negative change in food insecurity, hence these two States had decreasing food insecurity from 2011 to 2014 while Missouri and North Dakota recorded the largest change, implying that food insecurity increased the most in these states from 2011 to 2014.
 
 ![2011-2014 Change In Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492587-4f0f5445-8aa3-4b56-a73c-b1de1085c8b7.png)
 
