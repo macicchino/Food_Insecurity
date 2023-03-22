@@ -199,11 +199,11 @@ Between 2008 and 2010, the states with the lowest levels recorded for food insec
 
 Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had some of the highest levels of food insecurity. They all decreased from 2017 to 2019 and the new highest states are Mississippi, Louisiana, West Virginia and New Mexico.
 
-<details><Summary>2008-2010</summary>
+<details><Summary>2008-2010 Map</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 52 47 PM" src="https://user-images.githubusercontent.com/112206035/226937278-6cbac4ab-18e5-4a3a-bc71-9a4c8ac6901c.png">
 </details>
 
-<details><Summary>2017-2019</summary>
+<details><Summary>2017-2019 Map</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 36 PM" src="https://user-images.githubusercontent.com/112206035/226937325-ff90bee9-f149-479a-97a3-8a6d2621a03f.png">
 </details>
 
