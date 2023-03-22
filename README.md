@@ -197,56 +197,36 @@ How does physical access to food through restaurants and grocery stores impact f
 
 ## Descriptive Analysis and Data Visualization
 
-### Food Insecurity by State(%)
-Between 2008 and 2010, the top 5 States with the lowest levels recorded for Food Insecurity were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. Food insecurity however increased between 2011 and 2013 for the first 22 States, recorded with the lowest levels of food insecurity.  
-Mississippi recorded the highest level of food insecurity, followed by Texas, Alabama, Arkansas, and Georgia between 2008 and 2010 as the five most food insecure states in the USA. Food insecurity improved for three of these five States, with Texas and Mississippi still experiencing increasing food insecurity from 2011 to 2013. 
-From 2014 to 2016, while the five states which recorded the lowest levels of food insecurity had decreasing levels of food insecurity except Delaware and Virginia, the five States with the highest levels of food insecurity showed lower levels of food insecurity except Alabama.
+[Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
 
-![2008-2016 Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492005-3dcd8270-f543-409e-b9b5-e00dcb3e0e20.png)
+### Change in Food Insecurity Over Time (% Change)
+From 2008 to 2017 food insecurity decreased in all fifty states except for North Dakota, Louisiana and West Virginia. North Dakota however has one of the lowest pecentages accross the country while Mississippi has some of the highest percentages in food insecurity accross the country for every year.
 
+Between 2008 and 2010, the states with the lowest levels recorded for food insecurity were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. From 2017 to 2019 the states with the lowest levels of food insecurity were Iowa, New Hampshire, and New Jersey with North Dakota and Minnestota having the same amount of food insecurity. 
 
-[Tableau Link](https://public.tableau.com/views/Food_Insecurity_Data_Visualizations1/2008-2016FoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had some of the highest levels of food insecurity. They all decreased from 2017 to 2019 and the new highest states are Mississippi, Louisiana, West Virginia and New Mexico.
+s
+<img width="700" alt="Screen Shot 2023-03-21 at 10 52 47 PM" src="https://user-images.githubusercontent.com/112206035/226937278-6cbac4ab-18e5-4a3a-bc71-9a4c8ac6901c.png">
 
+<img width="700" alt="Screen Shot 2023-03-21 at 10 53 36 PM" src="https://user-images.githubusercontent.com/112206035/226937325-ff90bee9-f149-479a-97a3-8a6d2621a03f.png">
 
-### Change in Food Insecurity by State(%)
-Maine and Nevada recorded the lowest negative change in food insecurity, hence these two States had decreasing food insecurity from 2011 to 2014 while Missouri and North Dakota recorded the largest change, implying that food insecurity increased the most in these states from 2011 to 2014.
-
-![2011-2014 Change In Food Insecurity by State(%)](https://user-images.githubusercontent.com/114967995/225492587-4f0f5445-8aa3-4b56-a73c-b1de1085c8b7.png)
-
-                     
-[Tableau Link](https://public.tableau.com/views/ChangeinFood_Insecurity_Data_Visualizations2011-2014/2011-2014ChangeInFoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-Comparatively, Colorado and Missouri food insecurity in these two states between 2014 and 2017 was recorded to change negatively while New York had the highest(increasing) food insecurity.
-
-
-![2014-2017 Change In Food Insecurity(%)](https://user-images.githubusercontent.com/114967995/225492944-898e5e52-2b3e-48a0-909b-d59b04194072.png)
-
-
-[Tableau Link](https://public.tableau.com/shared/CN2GM897Z?:display_count=n&:origin=viz_share_link)
-
-### Change in Stores by State(%)
-
+### Food Insecurity and Food Stores 
 The scatter plot below shows the distribution of change by percentage(%) in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
-Convenience stores overall, recorded increasingly higher changes in a significant number of states while grocery stores across the USA rather recorded negatively diminishing number of stores from 2011-2016 as shown below. 
 
-![2011-2016 Change in Stores(%)](https://user-images.githubusercontent.com/114967995/225656909-949e3b65-5a83-4194-8d1d-12b86bfcec32.png)
+<img width="700" alt="Screen Shot 2023-03-21 at 10 53 20 PM" src="https://user-images.githubusercontent.com/112206035/226950706-84c1524a-27b0-437e-a03f-1f1a2347a5c9.png">
 
+### Food Insecurity and Food Stores 
+The scatter plot below shows the distribution of change by percentage(%) in full-service restaurants verses fast food-restaurants across all 50 states in the USA from 2011 to 2016.
 
-[Tableau Link](https://public.tableau.com/views/ChangeinStores2011-2016byState/2011-2016ChangeinStores?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+<img width="700" alt="Screen Shot 2023-03-21 at 10 53 07 PM" src="https://user-images.githubusercontent.com/112206035/226950919-1f34eed9-c0f1-4e87-8ced-eacd6200ae45.png">
 
-
-### Change in Local Agritourism Operations by State(%)
-The image below shows Change in Agritourism Operations versus Change in CSA Farms, Direct Farm Sales per Capita and Farms with Direct sales as shown below.
+### Other Visulaizations
+#### Change in Local Agritourism Operations by State(%)
+The image below shows Change in Agritourism Operations versus Change in CSA Farms, Direct Farm Sales per Capita and Farms with Direct sales as shown below. Convenience stores overall, recorded increasingly higher changes in a significant number of states while grocery stores across the USA rather recorded negatively diminishing number of stores from 2011-2016 as shown below. 
 
 ![Change in Local Agritourism Operation vrs and Farms and Farm Sales](https://user-images.githubusercontent.com/114967995/225686585-608856ad-e52f-4a34-8e96-65548436e191.png)
 
-
-[Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-## Dashboard
-
-[Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
-
+[Seperate Dashboard Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Tools and Languages utilized
