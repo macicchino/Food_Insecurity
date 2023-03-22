@@ -8,32 +8,33 @@
 The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America. It will also take an in depth look at physical access to food in the US and its effects on food insecurity.
 
 ### Background
-SQL Team 6 had an initial interest in New York Urban agriculture and utilized this idea as a promt to begin researching agricultural datasets in general. Through this research a map was found on the United States Department of Agriculture’s (USDA) website with many differing data points on food insecurity and related fields involving access, demographics, purchases, locations, etc.. 
+SQL Team 6 had an initial interest in New York urban agriculture and utilized this idea to begin researching agricultural datasets. Through this research a map was found on the United States Department of Agriculture’s (USDA) website with many differing data points on food insecurity and related fields involving access, demographics, purchases, locations, etc.
 
-In taking a further look at the dataset the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. The data was cleaned and the group selected the variables to use based on dates and the groups interest in how the variables related to changes in food insecurity.
+After a reviewing the dataset, the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. The data was cleaned, and the group selected the variables to use based on dates and the group's interest in how the variables related to changes in food insecurity.
 
 Below outlines and explores the various elements of the Food Insecurity Project.
 
 ### Datasets
 
-The original Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
+The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
 Direct download [here.](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)<br>
 
+Additional food insecurity data:<br>
 [2008-2010 food insecurity data](https://www.ers.usda.gov/webdocs/publications/44906/6893_err125_2_.pdf?v=5244)  <br>
 [2009-2011 food insecurity data](https://www.ers.usda.gov/webdocs/publications/45020/30967_err141.pdf)  <br>
 [2011-2013 food insecurity data](https://www.ers.usda.gov/webdocs/publications/45265/48787_err173.pdf)  <br>
 [2014-2016 food insecurity data](https://www.ers.usda.gov/webdocs/publications/84973/err-237.pdf?v=219.4)  <br>
 
-Datasets used for the project:<br>
+Cleaned datasets used for the project:<br>
 [insecurity.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/insecurity.csv)<br>
 [stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
-## Supervised Machine Learning Model:
+## Supervised Machine Learning Model
 
 Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. 
 
-A number of feature variables are used on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, the goal is to predict the binary change of the food insecurities increase of decrease by State. The group identified The Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier as our best sampling methods using Confusion Matrices and Accuracy Scores. 
+A number of feature variables are used on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, the goal is to predict the binary change of the food insecurity increase or decrease by state. The group identified the "Balanced Random Forest Classifier" and the "Easy Ensemble AdaBoost Classifier" as our best sampling methods using confusion matrices and accuracy scores. 
 
 Two key issues with the model are balancing the heavily skewed dataset and making state level predictions using county level features.
 
@@ -52,7 +53,7 @@ Two key issues with the model are balancing the heavily skewed dataset and makin
 </details>
 
 ### Description of Data
-The tables below include the Stores Table, Local Table, Restaurants Table and Insecurity Table. 
+The tables below include the Stores Table, Local Table, Restaurants Table, and Insecurity Table. 
 
 #### Tables 
 
@@ -65,7 +66,7 @@ The stores table shows the change by percentage(%) of Grocery stores from 2011 t
 
 <Details><Summary>Local Table</Summary>
 
-The local table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
+The local table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, state, and county.
 
 ![dev_2](Resources/Images/local.png "Local Image")
  
@@ -73,7 +74,7 @@ The local table shows the change by percentage(%) of Direct Farm Sales, Farms wi
 
 <Details><Summary>Restaurants Table</Summary>
 
-The restaurants table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
+The restaurants table shows the change by percentage(%) in Fast Food and Full Service Restaurants from 2011 to 2016 by FIPS, state, and county.
 
 ![dev_3](Resources/Images/restaurants.png "Restaurants Image")
  
@@ -81,19 +82,19 @@ The restaurants table shows the change by percentage(%) in Fast Food  and Full S
 
 <Details><Summary>Insecurity Table</Summary>
 
- The insecurity table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
+ The insecurity table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, state, and county.
 
 ![dev_4](Resources/Images/insecurity.png "Insecurity Image")
  </Details>
 
 #### Table Schemas: Food Insecurity
 
-An Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (see the images below)
+An entity relationship diagram linking the Insecurity, Restaurants, and Stores tables was constructed to develop a schema.
 
 <details><summary>Column names</summary>
 <p>
 
-#### Insecurity Table:
+#### Insecurity Table
 
 ```| FIPS                           | FIPS                                                               |
 | ------------------------------ | ------------------------------------------------------------------ |
@@ -122,7 +123,7 @@ An Entity Relationship Diagram linking the Insecurity, Restaurants, Local and St
 | BI_Model_answer_12-14_15-17    | BI_Model-Household food insecurity (change %),2012-14 to 2015-17\* |
 ```
 
- #### Stores Table:
+ #### Stores Table
 
 ```| FIPS                | FIPS                                                     |
 | ------------------- | -------------------------------------------------------- |
@@ -146,7 +147,7 @@ An Entity Relationship Diagram linking the Insecurity, Restaurants, Local and St
 | PCH_SPECSPTH_11_16  | Specialized food stores/1,000 pop (% change), 2011-16    |
 ```
 
-  #### Restaurants Table:
+  #### Restaurants Table
 
 ```| FIPS             | FIPS                                                   |
 | ---------------- | ------------------------------------------------------ |
@@ -176,7 +177,7 @@ An Entity Relationship Diagram linking the Insecurity, Restaurants, Local and St
 
 
 ## Objective
-From the above data set the team will look at agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. With this data, the group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
+Using this dataset the team will analyze agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. The group hopes to draw comparisons and craft conclusions about how physical access to food influences food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
 ### Questions
 How does physical access to food through restaurants and grocery stores impact food insecurity?
@@ -184,21 +185,21 @@ How does physical access to food through restaurants and grocery stores impact f
 #### Potential topics
 - How are fast food expenditures related to food insecurity?
 - Does restaurant availability contribute to lowering food insecurity?
-- Which has a higher positive impact on food access: having more farmers markets or more general grocery stores?
+- Which has a greater positive impact on food access, having more farmers markets or more general grocery stores?
 - How does agritourism influence food insecurity?
-- How do community supported farms versus regular farms have an impact?
+- Do community supported farms and regular farms have a differing impact on food insecurity?
 
 ## Descriptive Analysis and Data Visualization
-TO explore the data tavel to the [Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
+To explore the data tavel to the [Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
 
 Below the group shares images from the interactive dashboard and some subsequent observations.
 
 ### Change in Food Insecurity Over Time (% Change)
-From 2008 to 2017 food insecurity decreased in all fifty states except for North Dakota, Louisiana and West Virginia. North Dakota however has one of the lowest pecentages accross the country while Mississippi has some of the highest percentages in food insecurity accross the country for every year.
+From 2008 to 2017 food insecurity decreased in all fifty states except for North Dakota, Louisiana, and West Virginia. However, North Dakota has one of the lowest  food insecurity pecentages in the country, while Mississippi annually has some of the highest food insecurity percentages in the country.
 
-Between 2008 and 2010, the states with the lowest levels recorded for food insecurity were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. From 2017 to 2019 the states with the lowest levels of food insecurity were Iowa, New Hampshire, and New Jersey with North Dakota and Minnestota having the same amount of food insecurity. 
+Between 2008 and 2010, the states with the lowest food insecurity percentage were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. From 2017 to 2019 the states with the lowest food insecurity percentage were Iowa, New Hampshire, and New Jersey followed by North Dakota and Minnestota with an equal food insecurity percentage. 
 
-Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had some of the highest levels of food insecurity. They all decreased from 2017 to 2019 and the new highest states are Mississippi, Louisiana, West Virginia and New Mexico.
+Between 2008 and 2010 Mississippi, Texas, Arkansas,  Alabama, and Georgia had the highest levels of food insecurity. These states all reduced food insecurity for the 2017 to 2019 period leaving Mississippi, Louisiana, West Virginia, and New Mexico as the most food insecure states.
 
 <details><Summary>2008-2010 Map</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 52 47 PM" src="https://user-images.githubusercontent.com/112206035/226937278-6cbac4ab-18e5-4a3a-bc71-9a4c8ac6901c.png">
@@ -210,7 +211,7 @@ Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had som
 
 
 ### Food Insecurity and Food Stores 
-The scatter plot below shows the distribution of average percent(%) change in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
+The scatter plot below shows the distribution of average percent(%) change in grocery, convenience, specialized, and supercenters/clubstores in all fifty US states from 2011 to 2016.
 
 <details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 20 PM" src="https://user-images.githubusercontent.com/112206035/226950706-84c1524a-27b0-437e-a03f-1f1a2347a5c9.png">
@@ -219,7 +220,7 @@ The scatter plot below shows the distribution of average percent(%) change in Gr
 </details>
 
 ### Food Insecurity and Food Stores 
-The scatter plot below shows the distribution of average percent(%) change in full-service restaurants verses fast food-restaurants across all 50 states in the USA from 2011 to 2016.
+The scatter plot below shows the distribution of average percent(%) change in full-service restaurants versus fast food-restaurants in all 50 US states from 2011 to 2016.
 
 <details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 07 PM" src="https://user-images.githubusercontent.com/112206035/226950919-1f34eed9-c0f1-4e87-8ced-eacd6200ae45.png">
@@ -230,7 +231,7 @@ The scatter plot below shows the distribution of average percent(%) change in fu
 ### Other Visulaizations
 #### Change in Local Agritourism Operations by State(%)
 
-The image below shows Change in Agritourism Operations versus Change in CSA Farms, Direct Farm Sales per Capita and Farms with Direct sales as shown below. Convenience stores overall, recorded increasingly higher changes in a significant number of states while grocery stores across the USA rather recorded negatively diminishing number of stores from 2011-2016 as shown below. 
+The image below shows the change in agritourism operations versus the change in CSA farms, direct farm sales per capita, and farms with direct sales. Overall, convenience stores recorded increasing locations in a significant number of states, while grocery stores recorded diminishing numbers from 2011-2016.
 
 <details><br><Summary>Scatter Plot</summary>
 To interact with this plot use the link below
@@ -246,13 +247,15 @@ To interact with this plot use the link below
 ## Tools and Languages utilized
 - Slack
 - Excel
+- PowerPoint
 - Python
   - Jupyter Notebook 
-   - Pandas library
-   - sklearn library
-   - imblearn
+   - Pandas Library
+   - scikit-learn
+   - Imbalanced-learn
 - ERD Generator
 - PostgresSQL
 - Tableau Public
 - Zoom
 - Google Docs
+- Google Slides
