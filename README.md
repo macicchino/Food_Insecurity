@@ -199,26 +199,37 @@ Between 2008 and 2010, the states with the lowest levels recorded for food insec
 
 Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had some of the highest levels of food insecurity. They all decreased from 2017 to 2019 and the new highest states are Mississippi, Louisiana, West Virginia and New Mexico.
 
+<details><Summary>2008-2010</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 52 47 PM" src="https://user-images.githubusercontent.com/112206035/226937278-6cbac4ab-18e5-4a3a-bc71-9a4c8ac6901c.png">
+</details>
 
+<details><Summary>2017-2019</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 36 PM" src="https://user-images.githubusercontent.com/112206035/226937325-ff90bee9-f149-479a-97a3-8a6d2621a03f.png">
+</details>
+
 
 ### Food Insecurity and Food Stores 
 The scatter plot below shows the distribution of change by percentage(%) in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
 
+<details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 20 PM" src="https://user-images.githubusercontent.com/112206035/226950706-84c1524a-27b0-437e-a03f-1f1a2347a5c9.png">
+</details>
 
 ### Food Insecurity and Food Stores 
 The scatter plot below shows the distribution of change by percentage(%) in full-service restaurants verses fast food-restaurants across all 50 states in the USA from 2011 to 2016.
 
+<details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 07 PM" src="https://user-images.githubusercontent.com/112206035/226950919-1f34eed9-c0f1-4e87-8ced-eacd6200ae45.png">
+</details>
 
 ### Other Visulaizations
 #### Change in Local Agritourism Operations by State(%)
 
 The image below shows Change in Agritourism Operations versus Change in CSA Farms, Direct Farm Sales per Capita and Farms with Direct sales as shown below. Convenience stores overall, recorded increasingly higher changes in a significant number of states while grocery stores across the USA rather recorded negatively diminishing number of stores from 2011-2016 as shown below. 
 
+<details><Summary>Scatter Plot</summary>
 ![Change in Local Agritourism Operation vrs and Farms and Farm Sales](https://user-images.githubusercontent.com/114967995/225686585-608856ad-e52f-4a34-8e96-65548436e191.png)
+</details>
 
 [Seperate Dashboard Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
 
