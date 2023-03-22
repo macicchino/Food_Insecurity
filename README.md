@@ -5,10 +5,10 @@
 
 ## Overview 
 
-The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America. It will also take an in depth look at physical access to food in the US and its effects on food insecurity.
+The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America. It will also take an in-depth look at physical access to food in the US and its effects on food insecurity.
 
 ### Background
-SQL Team 6 had an initial interest in New York urban agriculture and utilized this idea to begin researching agricultural datasets. Through this research a map was found on the United States Department of Agriculture’s (USDA) website with many differing data points on food insecurity and related fields involving access, demographics, purchases, locations, etc.
+SQL Team 6 had an initial interest in New York urban agriculture and utilized this idea to begin researching agricultural datasets. Through this research a map was found on the United States Department of Agriculture’s website with many differing data points on food insecurity and related fields involving access, demographics, purchases, locations, etc.
 
 After a reviewing the dataset, the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. The data was cleaned, and the group selected the variables to use based on dates and the group's interest in how the variables related to changes in food insecurity.
 
@@ -194,7 +194,7 @@ To explore the data travel to the [dashboard link.](https://public.tableau.com/a
 
 Below the group shares images from the interactive dashboard and some subsequent observations.
 
-### Change in Food Insecurity Over Time (% Change)
+### Percent Change in Food Insecurity Over Time
 From 2008 to 2017 food insecurity decreased in all fifty states except for North Dakota, Louisiana, and West Virginia. However, North Dakota has one of the lowest  food insecurity pecentages in the country, while Mississippi has some of the highest annual food insecurity percentages in the country.
 
 Between 2008 and 2010, the states with the lowest food insecurity percentage were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. From 2017 to 2019 the states with the lowest food insecurity percentage were Iowa, New Hampshire, and New Jersey, followed by North Dakota and Minnestota with an equal food insecurity percentage. 
@@ -229,7 +229,7 @@ The scatter plot below shows the distribution of average percent change in full-
 </details>
 
 ### Other Visulaizations
-#### Change in Local Agritourism Operations by State(%)
+#### Pefcent Change in Local Agritourism Operations by State
 
 The image below shows the change in agritourism operations versus the change in CSA farms, direct farm sales per capita, and farms with direct sales. Overall, convenience stores recorded increasing locations in a significant number of states, while grocery stores recorded diminishing numbers from 2011-2016.
 
