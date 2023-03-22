@@ -216,6 +216,8 @@ Maine and Nevada recorded the lowest negative change in food insecurity, hence t
                      
 [Tableau Link](https://public.tableau.com/views/ChangeinFood_Insecurity_Data_Visualizations2011-2014/2011-2014ChangeInFoodInsecuritybyState?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+Comparatively, Colorado and Missouri food insecurity in these two states between 2014 and 2017 was recorded to change negatively while New York had the highest(increasing) food insecurity.
+
 
 ![2014-2017 Change In Food Insecurity(%)](https://user-images.githubusercontent.com/114967995/225492944-898e5e52-2b3e-48a0-909b-d59b04194072.png)
 
