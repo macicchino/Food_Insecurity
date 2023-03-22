@@ -15,9 +15,8 @@ In taking a further look at the dataset the group determined it was large enough
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
 ### Datasets
-The original data from the United States Department of Agriculture (USDA) website is below:
 
-The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
+The original Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
 Direct download [here.](https://www.ers.usda.gov/webdocs/DataFiles/80526/FoodEnvironmentAtlas.xls?v=2489.7)<br>
 
 [2008-2010 food insecurity data](https://www.ers.usda.gov/webdocs/publications/44906/6893_err125_2_.pdf?v=5244)  <br>
