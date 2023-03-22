@@ -5,12 +5,12 @@
 
 ## Overview 
 
-The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America. It will also take an in-depth look at physical access to food in the US and its effects on food insecurity.
+The purpose of this project is to utilize machine learning to predict and visualize food insecurity in the United States of America (US). It will also take an in-depth look at physical access to food in the US and its effects on food insecurity.
 
 ### Background
 SQL Team 6 had an initial interest in New York urban agriculture and utilized this idea to begin researching agricultural datasets. Through this research a map was found on the United States Department of Agriculture’s website with many differing data points on food insecurity and related fields involving access, demographics, purchases, locations, etc.
 
-After a reviewing the dataset, the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. The data was cleaned, and the group selected the variables to use based on dates and the group's interest in how the variables related to changes in food insecurity.
+After a reviewing the dataset, the group determined it was large enough, had potential for many interesting comparisons and trends, and had an adequate number of variables to be utilized for the machine learning model and visualization dashboard. After the data was cleaned, the group selected variables with corresponding dates and a possible relation to food insecurity.
 
 Below outlines and explores the various elements of the Food Insecurity Project.
 
@@ -53,12 +53,14 @@ Two key issues with the model are balancing the heavily skewed dataset and makin
 </details>
 
 ### Description of Data
+Our original data source is a comprehensive resource to analyze food insecurity and possible relating variables by locations including Federal Information Processing System (FIPS) Codes, counties, and states. The variables that accompany the food insecurity data include how and where consumers access food and how numerous these access points are within a given location. In addition to the original dataset, the group has acquired additional food insecurity data to help expand our analysis and predictions.
+
 The tables below include the Stores Table, Local Table, Restaurants Table, and Insecurity Table. 
 
 #### Tables 
 
 <Details><Summary>Stores Table</Summary>
-The Stores Table shows the change by percentage of grocery stores from 2011 to 2016 by FIPS, state and county.
+The Stores Table shows the percent change of grocery stores from 2011 to 2016 by FIPS, state and county.
 
 ![dev_1](Resources/Images/stores.png "Stores Image")
 
@@ -66,7 +68,7 @@ The Stores Table shows the change by percentage of grocery stores from 2011 to 2
 
 <Details><Summary>Local Table</Summary>
 
-The Local Table shows the change by percentage of direct farm sales, farms with direct sales, direct farm sales per capita, farmers markets, farms with vegetables harvested for fresh markets, vegetable acres harvested for fresh markets, CSA farms and agritourism operations from 2007 to 2012 by FIPS, state, and county.
+The Local Table shows the percent change of direct farm sales, farms with direct sales, direct farm sales per capita, farmers markets, farms with vegetables harvested for fresh markets, vegetable acres harvested for fresh markets, CSA farms and agritourism operations from 2007 to 2012 by FIPS, state, and county.
 
 ![dev_2](Resources/Images/local.png "Local Image")
  
@@ -74,7 +76,7 @@ The Local Table shows the change by percentage of direct farm sales, farms with 
 
 <Details><Summary>Restaurants Table</Summary>
 
-The Restaurants Table shows the change by percentage in fast food and full service restaurants from 2011 to 2016 by FIPS, state, and county.
+The Restaurants Table shows the percent change of fast food and full service restaurants from 2011 to 2016 by FIPS, state, and county.
 
 ![dev_3](Resources/Images/restaurants.png "Restaurants Image")
  
@@ -82,7 +84,7 @@ The Restaurants Table shows the change by percentage in fast food and full servi
 
 <Details><Summary>Insecurity Table</Summary>
 
- The Insecurity Table shows the change by percentage of food insecurity from 2012-2017 by FIPS, state, and county.
+ The Insecurity Table shows the percent change of food insecurity from 2012-2017 by FIPS, state, and county.
 
 ![dev_4](Resources/Images/insecurity.png "Insecurity Image")
  </Details>
@@ -177,7 +179,7 @@ An entity relationship diagram linking the Insecurity, Restaurants, and Stores T
 
 
 ## Objective
-Using this dataset the team will analyze agriculture, general grocery access, and the restaurant industry as it relates to food insecurity. The group hopes to draw comparisons and craft conclusions about how physical access to food effects food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
+Using this dataset the team will analyze how access to agriculture, groceries, and restaurants effects food insecurity. The group hopes to draw comparisons and craft conclusions about how physical access to food effects food insecurity. A model will also be created that predicts possible changes in food insecurity based on the original data.
 
 ### Questions
 How does physical access to food through restaurants and grocery stores impact food insecurity?
@@ -199,7 +201,7 @@ From 2008 to 2017 food insecurity decreased in all fifty states except for North
 
 Between 2008 and 2010, the states with the lowest food insecurity percentage were North Dakota, Virginia, New Hampshire, Delaware, and Minnesota. From 2017 to 2019 the states with the lowest food insecurity percentage were Iowa, New Hampshire, and New Jersey, followed by North Dakota and Minnestota with an equal food insecurity percentage. 
 
-Between 2008 and 2010 Mississippi, Texas, Arkansas,  Alabama, and Georgia had the highest levels of food insecurity. These states all reduced food insecurity for the 2017 to 2019 period, leaving Mississippi, Louisiana, West Virginia, and New Mexico as the most food insecure states.
+Between 2008 and 2010 Mississippi, Texas, Arkansas, Alabama, and Georgia had the highest levels of food insecurity. The previously mentioned states all reduced food insecurity from 2017 to 2019, leaving Mississippi, Louisiana, West Virginia, and New Mexico as the most food insecure states for the time period.
 
 <details><Summary>2008-2010 Map</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 52 47 PM" src="https://user-images.githubusercontent.com/112206035/226937278-6cbac4ab-18e5-4a3a-bc71-9a4c8ac6901c.png">
