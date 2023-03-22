@@ -210,17 +210,21 @@ Between 2008 and 2010 Mississippi, Texas, Alabama, Arkansas, and Georgia had som
 
 
 ### Food Insecurity and Food Stores 
-The scatter plot below shows the distribution of change by percentage(%) in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
+The scatter plot below shows the distribution of average percent(%) change in Grocery, Convenience, Specialized and Supercentres/Clubstores across all 50 states in the USA from 2011 to 2016.
 
 <details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 20 PM" src="https://user-images.githubusercontent.com/112206035/226950706-84c1524a-27b0-437e-a03f-1f1a2347a5c9.png">
+
+<sub> (The dashboard includes this data on both a state and county level) </sub>
 </details>
 
 ### Food Insecurity and Food Stores 
-The scatter plot below shows the distribution of change by percentage(%) in full-service restaurants verses fast food-restaurants across all 50 states in the USA from 2011 to 2016.
+The scatter plot below shows the distribution of average percent(%) change in full-service restaurants verses fast food-restaurants across all 50 states in the USA from 2011 to 2016.
 
 <details><Summary>Scatter Plot</summary>
 <img width="700" alt="Screen Shot 2023-03-21 at 10 53 07 PM" src="https://user-images.githubusercontent.com/112206035/226950919-1f34eed9-c0f1-4e87-8ced-eacd6200ae45.png">
+
+<sub> (The dashboard includes this data on both a state and county level) </sub>
 </details>
 
 ### Other Visulaizations
