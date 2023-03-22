@@ -12,7 +12,7 @@ In taking a further look at the dataset the group determined it was large enough
 
 Below, we shall outline and delve into the various elements of the Food Insecurity Project.
 
-### Dataset
+### Datasets
 The original data from the United States Department of Agriculture (USDA) website is below:
 
 The original 2020 Food Environment Atlas dataset can be found [here](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/).
@@ -28,7 +28,7 @@ Datasets used for the project:<br>
 [stores.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/stores.csv)<br>
 [restaurants.csv](https://github.com/macicchino/Food_Insecurity/blob/main/Datasets/restaurants.csv)<br>
 
-### Supervised Machine Learning Model:
+## Supervised Machine Learning Model:
 
 Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. 
 
@@ -53,38 +53,43 @@ Two key issues with the model are balancing the heavily skewed dataset and makin
 ### Description of Data
 The tables below include Stores Table, Local Table, Restaurants Table and Insecurity Table. 
 
-### Tables 
+#### Tables 
 
-**Stores Table**
+<Details><Summary>Stores Table</Summary>
 The Stores Table shows the change by percentage(%) of Grocery stores from 2011 to 2016 by FIPS, State and County.
 
 ![dev_1](Resources/Images/stores.png "Stores Image")
 
-**Local Table**
+ </Details>
 
- The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
+<Details><Summary>Local Table</Summary>
+
+The Local Table shows the change by percentage(%) of Direct Farm Sales, Farms with Direct Sales and Direct Farm Sales per capita, Farmers Markets, Farms with vegetables harvested for fresh markets, Vegetable acres harvested for fresh markets, CSA Farms and Agritourism operations from 2007 to 2012 by FIPS, State and County.
 
 ![dev_2](Resources/Images/local.png "Local Image")
+ 
+</Details>
 
-**Restaurants Table**
+<Details><Summary>Restaurants Table</Summary>
 
- Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
+Restaurants Table shows the change by percentage(%) in Fast Food  and Full Service Restaurants from 2011 to 2016 by FIPS, State and County.
 
 ![dev_3](Resources/Images/restaurants.png "Restaurants Image")
+ 
+ </Details>
 
-**Insecurity Table**
+<Details><Summary>Insecurity Table</Summary>
 
  Insecurity Table shows the change by percentage(%) of Food Insecurity, C from 2012-2017 by FIPS, State and County.
 
 ![dev_4](Resources/Images/insecurity.png "Insecurity Image")
+ </Details>
 
-### Table Schemas
-
-**Insecurity Schema**
+#### Table Schemas: Food Insecurity
 
 The Entity Relationship Diagram linking the Insecurity, Restaurants, Local and Stores Data was constructed to develop a Schema for the 3 tables (as shown in the image below)
 
-<details><summary>Column names:</summary>
+<details><summary>Column names</summary>
 <p>
 
 #### Insecurity Table:
@@ -183,8 +188,9 @@ How does physical access to food through restaurants and grocery stores impact f
 - How do community supported farms versus regular farms have an impact?
 
 ## Descriptive Analysis and Data Visualization
+TO explore the data tavel to the [Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
 
-[Dashboard Link](https://public.tableau.com/app/profile/emery.scott/viz/FoodInsecurityDashboard/HousholdFoodInsecurityasitRelatestoPhysicalAccess?publish=yes)
+Below the group shares images from the interactive dashboard and some subsequent observations.
 
 ### Change in Food Insecurity Over Time (% Change)
 From 2008 to 2017 food insecurity decreased in all fifty states except for North Dakota, Louisiana and West Virginia. North Dakota however has one of the lowest pecentages accross the country while Mississippi has some of the highest percentages in food insecurity accross the country for every year.
