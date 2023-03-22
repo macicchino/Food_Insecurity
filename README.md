@@ -228,7 +228,7 @@ The scatter plot below shows the distribution of change by percentage(%) in full
 The image below shows Change in Agritourism Operations versus Change in CSA Farms, Direct Farm Sales per Capita and Farms with Direct sales as shown below. Convenience stores overall, recorded increasingly higher changes in a significant number of states while grocery stores across the USA rather recorded negatively diminishing number of stores from 2011-2016 as shown below. 
 
 <details><Summary>Scatter Plot</summary>
-![Change in Local Agritourism Operation vrs and Farms and Farm Sales](https://user-images.githubusercontent.com/114967995/225686585-608856ad-e52f-4a34-8e96-65548436e191.png)
+<img width="1423" alt="Screen Shot 2023-03-22 at 12 01 31 PM" src="https://user-images.githubusercontent.com/112206035/226965478-f60c35ab-d7a3-4a61-b696-608fd420cfb5.png">
 </details>
 
 [Seperate Dashboard Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
