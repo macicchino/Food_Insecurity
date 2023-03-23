@@ -34,7 +34,7 @@ Cleaned datasets used for the project:<br>
 
 Machine learning is the use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. 
 
-A number of feature variables are used on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, the goal is to predict the binary change of the food insecurity increase or decrease by state. The group identified the "Balanced Random Forest Classifier" and the "Easy Ensemble AdaBoost Classifier" as our best sampling methods using confusion matrices and accuracy scores. 
+A number of feature variables are used on a county level for time periods from 2016 and earlier to predict food insecurity after 2017. Specifically, the goal is to predict the percentage change of food insecurity by state. The group identified the "Balanced Random Forest Classifier" and the "Easy Ensemble AdaBoost Classifier" as our best sampling methods using confusion matrices and accuracy scores. 
 
 Two key issues with the model are balancing the heavily skewed dataset and making state level predictions using county level features.
 
