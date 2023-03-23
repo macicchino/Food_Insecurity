@@ -1,5 +1,5 @@
 
-<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/112206035/227010828-fba23919-b446-4ac6-ac5a-94715b43603c.jpeg">
+<img align="Right" height="200" width="230" src="https://user-images.githubusercontent.com/112206035/227073187-ba0e9445-c72d-437f-9af0-71f926acb8fe.jpeg">
 
 # Final Project: Food Insecurity <dl><sub>by SQL Team 6 </sub></dl>
 
