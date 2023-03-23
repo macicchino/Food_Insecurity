@@ -228,21 +228,6 @@ The scatter plot below shows the distribution of average percent change in full-
 <sub> (The dashboard includes this data on both a state and county level.) </sub>
 </details>
 
-### Other Visulaizations
-#### Pefcent Change in Local Agritourism Operations by State
-
-The image below shows the change in agritourism operations versus the change in CSA farms, direct farm sales per capita, and farms with direct sales. Overall, convenience stores recorded increasing locations in a significant number of states, while grocery stores recorded diminishing numbers from 2011-2016.
-
-<details><br><Summary>Scatter Plot</summary>
-To interact with this plot use the link below:
-
-[Tableau Link](https://public.tableau.com/views/ChangeinLocalAgritourismOperationsVrsFarmsandFarmSalesfor2007-2012byState/ChangeinLocalAgritourismOperationvrsandFarmsandFarmSalesfrom2007-2012?:language=en-US&:display_count=n&:origin=viz_share_link)
- 
- <br>
-<img width="1423" alt="Screen Shot 2023-03-22 at 12 01 31 PM" src="https://user-images.githubusercontent.com/112206035/226965478-f60c35ab-d7a3-4a61-b696-608fd420cfb5.png">
-</details>
-
-
 
 ## Tools and Languages utilized
 - Slack
